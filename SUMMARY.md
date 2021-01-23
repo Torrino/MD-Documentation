@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## 🧾Getting Started
+## 🧾Getting Started <a id="start"></a>
 
-* [Character Creator](getting-started/character-creator.md)
+* [Character Creator](start/cc.md)
 
