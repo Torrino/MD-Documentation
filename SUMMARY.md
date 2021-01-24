@@ -6,3 +6,8 @@
 
 * [Character Creator](start/cc.md)
 
+## Fame Route
+
+* [Introduction](fame-route/intro.md)
+* [Blacksmith](fame-route/blacksmith.md)
+
