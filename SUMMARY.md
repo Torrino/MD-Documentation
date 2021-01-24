@@ -6,12 +6,12 @@
 
 * [Character Creator](start/cc.md)
 
+## ❓FaQ
+
+* [Frequently Asked Questions](faq/frequently-asked-questions.md)
+
 ## Fame Route
 
 * [Introduction](fame-route/intro.md)
 * [Blacksmith](fame-route/blacksmith.md)
-
-## ❓FaQ
-
-* [Frequently Asked Questions](faq/frequently-asked-questions.md)
 
