@@ -10,9 +10,11 @@ The Blacksmith is one of the oldest professions within Rosewood. At its core, th
 
 ### Mechanics:
 
-#### - r!forge
+```javascript
+r!forge
+```
 
-Just like every other smith, the Blacksmith uses the r!forge command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Blacksmith has a Hammer equipped.
+Just like every other smith, the Blacksmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Blacksmith has a Hammer equipped.
 
 #### Recipes:
 
