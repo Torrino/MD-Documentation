@@ -10,8 +10,9 @@
 
 * [Frequently Asked Questions](faq/frequently-asked-questions.md)
 
-## Fame Route
+## Commoner Path <a id="commoner"></a>
 
-* [Introduction](fame-route/intro.md)
-* [Blacksmith](fame-route/blacksmith.md)
+* [Fame Route](commoner/fame/README.md)
+  * [Blacksmith](commoner/fame/blacksmith/README.md)
+    * [Mega smith](commoner/fame/blacksmith/mega-smith.md)
 
