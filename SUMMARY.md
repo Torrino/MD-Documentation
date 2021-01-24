@@ -28,3 +28,8 @@
 * [City Watch Route](military-path/city-watch-route.md)
 * [Sellsword Route](military-path/sellsword-route.md)
 
+## Majesty Path
+
+* [Lesser Nobility](majesty-path/lesser-nobility.md)
+* [High Nobility](majesty-path/high-nobility.md)
+
