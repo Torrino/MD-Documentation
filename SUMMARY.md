@@ -17,3 +17,9 @@
 * [Infamy Route](commoner/infamy-route.md)
 * [Irresolute Route](commoner/tavern-route.md)
 
+## Clergy Path
+
+* [Preachment Route](clergy-path/preachment-route.md)
+* [Inquisition Route](clergy-path/inquisition-route.md)
+* [Medicinal Route](clergy-path/medicinal-route.md)
+
