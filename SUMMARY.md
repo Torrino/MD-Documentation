@@ -13,6 +13,7 @@
 ## Commoner Path <a id="commoner"></a>
 
 * [Fame Route](commoner/fame/README.md)
-  * [Blacksmith](commoner/fame/blacksmith/README.md)
-    * [Mega smith](commoner/fame/blacksmith/mega-smith.md)
+  * [Blacksmith](commoner/fame/blacksmith.md)
+* [Infamy Route](commoner/infamy-route.md)
+* [Tavern Route](commoner/tavern-route.md)
 
