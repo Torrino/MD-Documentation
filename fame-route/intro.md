@@ -16,3 +16,5 @@ The Fame Route of the Commoner Path is based on using each role's specific comma
 * Farmer
 * Miner
 
+Test
+
