@@ -4,11 +4,11 @@ description: A page detailing the Blacksmith role within Medieval Discord.
 
 # Blacksmith
 
-### Description:
+## Description:
 
 The Blacksmith is one of the oldest professions within Rosewood. At its core, the Blacksmith is a person who takes raw metal and wood and turns it into various tools.
 
-### Mechanics:
+## Mechanics:
 
 ```javascript
 r!forge
@@ -27,7 +27,7 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 * **Steel Bar** \[5 Iron Ore + 10 Charcoal\]
 * **Iron Bar** \[5 Iron Ore\]
 
-### Relationship with the Market and other Users:
+## Relationship with the Market and other Users:
 
 The Blacksmith can, of course, decide to buy the material they need from the Market, and sell their finished product back to it. However, if a user is attempting to maximize their profit, they should consider trading with other users for both materials and products.
 
