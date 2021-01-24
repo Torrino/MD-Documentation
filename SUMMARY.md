@@ -15,5 +15,5 @@
 * [Fame Route](commoner/fame/README.md)
   * [Blacksmith](commoner/fame/blacksmith.md)
 * [Infamy Route](commoner/infamy-route.md)
-* [Tavern Route](commoner/tavern-route.md)
+* [Irresolute Route](commoner/tavern-route.md)
 
