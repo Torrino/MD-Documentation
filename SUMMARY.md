@@ -14,19 +14,19 @@
 
 * [Fame Route](commoner/fame/README.md)
   * [Blacksmith](commoner/fame/blacksmith.md)
-* [Infamy Route](commoner/infamy-route.md)
-* [Service Route](commoner/tavern-route.md)
+* [Infamy Route](commoner/infamy.md)
+* [Service Route](commoner/service.md)
 
 ## Clergy Path
 
-* [Preachment Route](clergy-path/preachment-route.md)
-* [Inquisition Route](clergy-path/inquisition-route.md)
-* [Medicinal Route](clergy-path/medicinal-route.md)
+* [Preachment Route](clergy-path/preachment.md)
+* [Inquisition Route](clergy-path/inquisition.md)
+* [Medicinal Route](clergy-path/medicinal.md)
 
 ## Military Path
 
-* [City Watch Route](military-path/city-watch-route.md)
-* [Sellsword Route](military-path/sellsword-route.md)
+* [City Watch Route](military-path/city-watch.md)
+* [Sellsword Route](military-path/sellsword.md)
 
 ## Majesty Path
 
