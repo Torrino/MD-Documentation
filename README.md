@@ -2,7 +2,7 @@
 description: Welcome to the official documentation for Medieval Discord.
 ---
 
-# Initial page
+# Welcome
 
 _Medieval Discord is a one-of-a-kind medieval RPG and community played and created as a Discord server._
 

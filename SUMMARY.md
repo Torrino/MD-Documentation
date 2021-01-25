@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 
 ## 🧾Getting Started <a id="start"></a>
 
