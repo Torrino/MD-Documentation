@@ -15,6 +15,8 @@
 * [Fame Route](commoner/fame/README.md)
   * [Blacksmith](commoner/fame/blacksmith.md)
   * [Goldsmith](commoner/fame/goldsmith.md)
+  * [Armorsmith](commoner/fame/armorsmith.md)
+  * [Weaponsmith](commoner/fame/weaponsmith.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 
