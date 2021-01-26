@@ -17,6 +17,8 @@
   * [Goldsmith](commoner/fame/goldsmith.md)
   * [Armorsmith](commoner/fame/armorsmith.md)
   * [Weaponsmith](commoner/fame/weaponsmith.md)
+  * [Tailor](commoner/fame/tailor.md)
+  * [Cobbler](commoner/fame/cobbler.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 
