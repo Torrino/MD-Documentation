@@ -29,9 +29,14 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 * **Steel Bar** \[5 Iron Ore + 10 Charcoal\]
 * **Iron Bar** \[5 Iron Ore\]
 
+#### Additional requirements:
+
+* **Necessary tool:** Hammer
+* **Channel:** \#workshops
+
 ## Relationship with the Market and other Users:
 
-The Blacksmith can, of course, decide to buy the material they need from the Market, and sell their finished product back to it. However, if a user is attempting to maximize their profit, they should consider trading with other users for both materials and products.
+The Blacksmith can, of course, decide to buy the materials they need from the Market, and sell their finished product back to it. However, if a user is attempting to maximize their profit, they should consider trading with other users for both materials and products.
 
 Ideally, a Blacksmith will buy Iron Ore from a Miner, and Wood from a Tree Feller. The Blacksmith can then turn those into ingredients for their recipes. Only Charcoal cannot be acquired through other users and must be bought from the Market directly.
 
