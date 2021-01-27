@@ -40,5 +40,5 @@
 
 ---
 
-* [Patreon](https://patreon.com/medievaldiscord)
+* [Fund MD on Patreon](https://patreon.com/medievaldiscord)
 
