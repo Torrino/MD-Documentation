@@ -38,3 +38,7 @@
 * [Lesser Nobility](majesty-path/lesser-nobility.md)
 * [High Nobility](majesty-path/high-nobility.md)
 
+---
+
+* [Patreon](https://patreon.com/medievaldiscord)
+
