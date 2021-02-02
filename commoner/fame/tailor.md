@@ -31,5 +31,5 @@ The `r!tailor` command is used by the Tailor in order to craft clothing from sim
 
 ## Relationship with the Market and other Users:
 
-The majority of the Tailor's necessary ingredients can't be produced by other roles, so they will need to be purchased directly from the Market. Alternatively, some can be acquired through trade with Merchant characters. The Tailor is free to sell their products to anyone.
+Some of the Tailor's necessary ingredients can't be produced by other roles, so they will need to be purchased directly from the Market. Alternatively, some can be acquired through trade with Merchant characters, Butchers, and Farmers. The Tailor is free to sell their products to anyone.
 
