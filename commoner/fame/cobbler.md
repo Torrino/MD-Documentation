@@ -14,7 +14,7 @@ Cobblers use local materials to create footwear for the people of Rosewood. They
 r!cobble <item name>
 ```
 
-_`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!tailor winter boots`_
+_`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!cobble winter boots`_
 
 The `r!cobble` command is used by the Cobbler in order to craft footwear from simpler ingredients. 
 
