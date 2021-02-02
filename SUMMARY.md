@@ -19,6 +19,8 @@
   * [Weaponsmith](commoner/fame/weaponsmith.md)
   * [Tailor](commoner/fame/tailor.md)
   * [Cobbler](commoner/fame/cobbler.md)
+  * [Hunter](commoner/fame/hunter.md)
+  * [Butcher](commoner/fame/butcher.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 
