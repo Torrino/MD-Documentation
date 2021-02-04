@@ -32,6 +32,7 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 #### Additional requirements:
 
 * **Necessary tool:** Hammer
+  * **Location:** Primary slot
 * **Channel:** \#workshops
 
 ## Relationship with the Market and other Users:

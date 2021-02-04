@@ -28,6 +28,7 @@ Just like every other smith, the Goldsmith uses the `r!forge` command in order t
 #### Additional requirements:
 
 * **Necessary tool:** Hammer
+  * **Location:** Primary slot
 * **Channel:** \#workshops
 
 ## Relationship with the Market and other Users:

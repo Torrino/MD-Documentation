@@ -28,6 +28,7 @@ The `r!cobble` command is used by the Cobbler in order to craft footwear from si
 #### Additional requirements:
 
 * **Necessary tool:** Hammer
+  * **Location:** Primary slot
 * **Channel:** \#workshops
 
 ## Relationship with the Market and other Users:

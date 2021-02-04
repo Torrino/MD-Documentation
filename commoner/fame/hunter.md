@@ -27,7 +27,15 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
 
 #### Additional requirements:
 
-* **Necessary tool:** Bow & Arrows \| Spear
+* **Necessary tool:** 
+  * Bow & Arrows
+
+    * **Location:** Primary slot\(bow\), Inventory\(arrows\) 
+
+    **OR**
+
+  *  Spear
+    * **Location:** Primary slot
 * **Channel:** \#forest 
 
 ## Relationship with the Market and other Users:

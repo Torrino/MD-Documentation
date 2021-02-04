@@ -31,6 +31,7 @@ Just like every other smith, the Armorsmith uses the `r!forge` command in order 
 #### Additional requirements:
 
 * **Necessary tool:** Hammer
+  * **Location:** Primary Slot
 * **Channel:** \#workshops
 
 ## Relationship with the Market and other Users:
