@@ -2,7 +2,7 @@
 description: A page detailing the Blacksmith role within Medieval Discord.
 ---
 
-# Blacksmith
+# Blacksmith🔨
 
 ## Description:
 

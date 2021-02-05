@@ -13,14 +13,14 @@
 ## 💰Commoner Path <a id="commoner"></a>
 
 * [Fame Route](commoner/fame/README.md)
-  * [Blacksmith](commoner/fame/blacksmith.md)
-  * [Goldsmith](commoner/fame/goldsmith.md)
-  * [Armorsmith](commoner/fame/armorsmith.md)
-  * [Weaponsmith](commoner/fame/weaponsmith.md)
-  * [Tailor](commoner/fame/tailor.md)
-  * [Cobbler](commoner/fame/cobbler.md)
-  * [Hunter](commoner/fame/hunter.md)
-  * [Butcher](commoner/fame/butcher.md)
+  * [Blacksmith🔨](commoner/fame/blacksmith.md)
+  * [Goldsmith💎](commoner/fame/goldsmith.md)
+  * [Armorsmith🔨🛡️](commoner/fame/armorsmith.md)
+  * [Weaponsmith🔨⚔️](commoner/fame/weaponsmith.md)
+  * [Tailor👚](commoner/fame/tailor.md)
+  * [Cobbler👞](commoner/fame/cobbler.md)
+  * [Hunter🏹🐾](commoner/fame/hunter.md)
+  * [Butcher🍖](commoner/fame/butcher.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 

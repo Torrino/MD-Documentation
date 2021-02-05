@@ -2,7 +2,7 @@
 description: A page detailing the Tailor role within Medieval Discord.
 ---
 
-# Tailor
+# Tailor👚
 
 ## Description:
 
