@@ -11,10 +11,10 @@ Butchers are professionals who know how to skin and butcher animals brought by H
 ## Mechanics:
 
 ```javascript
-r!butcher <animal corpse name>
+r!butcher <animal name>
 ```
 
-_`<animal corpse name>`_ _- The name of the animal corpse you're trying to butcher. Example:_ _`r!butcher rabbit corpse`_
+_`<animal name>`_ _- The name of the animal corpse you're trying to butcher. Example:_ _`r!butcher rabbit`_
 
 The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals.
 
