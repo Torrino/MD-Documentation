@@ -14,7 +14,11 @@ Butchers are professionals who know how to skin and butcher animals brought by H
 r!butcher <animal name>
 ```
 
-_`<animal name>`_ _- The name of the animal corpse you're trying to butcher. Example:_ _`r!butcher rabbit`_
+_`<animal name>`_ _- The name of the animal corpse you're trying to butcher._ 
+
+_Examples:_   
+_`r!butcher rabbit`  - requires 1x rabbit corpse in your inventory  
+`r!butcher cow` - requires 1x slaughtered cow in your inventory_ 
 
 The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals. You must have the appropriate corpse of the animal in your inventory that you're trying to butcher for materials and meat.
 
@@ -32,6 +36,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 #### Additional requirements:
 
 * **Necessary tool:** Slaughter Knife
+  * **Location:** Primary slot
 * **Channel:** \#workshops
 
 ```javascript
