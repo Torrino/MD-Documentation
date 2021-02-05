@@ -20,7 +20,7 @@ _Examples:_
 _`r!butcher rabbit`  - requires 1x rabbit corpse in your inventory  
 `r!butcher cow` - requires 1x slaughtered cow in your inventory_ 
 
-The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals. You must have the appropriate corpse of the animal in your inventory that you're trying to butcher for materials and meat.
+The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals. You must have the appropriate corpse of the animal in your inventory in order to butcher it for materials and meat.
 
 #### Animal Corpses:
 
