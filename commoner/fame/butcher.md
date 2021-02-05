@@ -43,7 +43,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 r!tan <amount>
 ```
 
-_`<amount>`_ _- The name of the animal corpse you're trying to butcher. Example:_ _`r!tan <amount>`_
+_`<amount>`_ _- The amount of leather from your inventory that you want to tan. Example:_ _`r!tan 4`_
 
 The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals.
 
