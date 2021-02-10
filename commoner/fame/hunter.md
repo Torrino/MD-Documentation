@@ -40,7 +40,13 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
 
 ## Relationship with the Market and other Users:
 
-The Hunter is the only person, besides Knights and Lords, that can hunt in the forest. For their command to work, they need to have an equipped bow/spear \(depending on what they are hunting\). If they are using the bow, they will need a number of arrows in their inventory. If they are using the spear, then it will be used up in the hunt attempt. _The higher the level, the higher the chances that the spear will be dropped instead of lost upon using the `r!hunt`command._ As such, the Hunter will often need to replace their weapons and they can do that through the Market \(Arrows\), or through a Weaponsmith \(Spears\).  
+The Hunter is the only person, besides Knights and Lords, that can hunt in the forest. For their command to work, they need to have an equipped bow/spear \(depending on what they are hunting\). If they are using the bow, they will need a number of arrows in their inventory. If they are using the spear, then it will be used up in the hunt attempt. 
+
+{% hint style="info" %}
+_The higher the level, the higher the chances that the spear will be dropped instead of lost upon using the `r!hunt`command._ 
+{% endhint %}
+
+As such, the Hunter will often need to replace their weapons and they can do that through the Market \(Arrows\), or through a Weaponsmith \(Spears\).  
   
 Once they have successfully caught an animal, Hunters will be given its corpse in the inventory. This valuable material can then be sold directly to the Market, or to a Butcher player for a higher profit. 
 
