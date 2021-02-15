@@ -2,7 +2,7 @@
 description: A page detailing the Weaponsmith role within Medieval Discord.
 ---
 
-# Weaponsmith🔨⚔️
+# Weaponsmith ⚔️
 
 ## Description:
 

@@ -2,7 +2,7 @@
 description: A page detailing the Tree Feller role within Medieval Discord.
 ---
 
-# Tree Feller
+# Tree Feller 🪵
 
 ## Description:
 

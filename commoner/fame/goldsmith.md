@@ -2,7 +2,7 @@
 description: A page detailing the Goldsmith role within Medieval Discord.
 ---
 
-# Goldsmith💎
+# Goldsmith 💍
 
 ## Description:
 

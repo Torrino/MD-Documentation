@@ -2,7 +2,7 @@
 description: A page detailing the Armorsmith role within Medieval Discord.
 ---
 
-# Armorsmith🔨🛡️
+# Armorsmith 🛡️
 
 ## Description:
 
