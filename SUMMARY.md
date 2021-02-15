@@ -22,7 +22,10 @@
   * [Hunter 🦌](commoner/fame/hunter.md)
   * [Butcher 🥩](commoner/fame/butcher.md)
   * [Carpenter 🔨](commoner/fame/carpenter.md)
-  * [Tree Feller 🪵](commoner/fame/tree-feller.md)
+  * [Tree Feller 🌳](commoner/fame/tree-feller.md)
+  * [Merchant 📦](commoner/fame/merchant.md)
+  * [Farmer 🐖](commoner/fame/farmer.md)
+  * [Miner ⛏️](commoner/fame/miner.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 
