@@ -37,6 +37,10 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
   *  Spear
     * **Location:** Primary slot
 * **Channel:** \#forest 
+* **Minimum Stamina:** 50%
+  * **Raw Stamina Cost:** 5 ****
+* **XP Reward:** 3
+  * **XP Reward Cooldown:** 24h
 
 ## Relationship with the Market and other Users:
 

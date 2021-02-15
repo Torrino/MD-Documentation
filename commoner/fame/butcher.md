@@ -35,9 +35,13 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 
 #### Additional requirements:
 
+* **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
-* **Channel:** \#workshops
+* **Minimum Stamina:** 50%
+  * **Raw Stamina Cost:** 5 ****
+* **XP Reward:** 3
+  * **XP Reward Cooldown:** 24h
 
 ```javascript
 r!tan <amount>
@@ -45,28 +49,21 @@ r!tan <amount>
 
 _`<amount>`_ _- The amount of leather from your inventory that you want to tan. Example:_ _`r!tan 4`_
 
-The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals.
-
-#### Animal Corpses:
-
-* **Slaughtered Pig** \(gives Raw Pork and Leather\)
-* **Slaughtered Cow** \(gives Raw Beef/Veal and Leather\)
-* **Slaughtered Chicken** \(gives Raw Chicken and Feathers\)
-* **Slaughtered Sheep** \(gives Raw Lamb and Wool\)
-* **Deer corpse** \(gives Raw Venison and Leather\)
-* **Boar corpse** \(gives Raw Boar and Leather\)
-* **Rabbit corpse** \(gives Raw Hare and Fur\)
-* **Pheasant corpse** \(gives Raw Pheasant and Feathers\)
+The `r!tan`command is used by the Butcher in order to successfully tan ordinary Leather and turn it into Tanned Leather. Depending on how much Tanned Leather you want, you will have to have the exact number of Leather in your inventory.
 
 #### Additional requirements:
 
+* **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
-* **Channel:** \#workshops
+* **Minimum Stamina:** 25%
+  * **Raw Stamina Cost:** 5
+* **XP Reward:** 1
+  * **XP Reward Cooldown:** 24h
 
 ## Relationship with the Market and other Users:
 
-The Hunter is the only person, besides Knights and Lords, that can hunt in the forest. For their command to work, they need to have an equipped bow/spear \(depending on what they are hunting\). If they are using the bow, they will need a number of arrows in their inventory. If they are using the spear, then it will be used up in the hunt attempt. _The higher the level, the higher the chances that the spear will be dropped instead of lost upon using the `r!hunt`command._ As such, the Hunter will often need to replace their weapons and they can do that through the Market \(Arrows\), or through a Weaponsmith \(Spears\).  
-  
-Once they have successfully caught an animal, Hunters will be given its corpse in the inventory. This valuable material can then be sold directly to the Market, or to a Butcher player for a higher profit. 
+Tanned Leather is used in the Tailoring of many clothes, and in the Cobbling of most footwear. As such, the Butcher can sell their Tanned Leather to Tailors and Cobblers, or alternatively, they can sell directly to the Market, but for a smaller profit.
+
+Regarding the Butcher's main command, it enables them to purchase hunted or slaughtered animals from Farmers and Hunters, at a discount when compared to the Market, and sell the materials and meat they get from their Butchering. Meat is a valuable food item, and can be sold to other characters for a profit, or to the Market directly.
 
