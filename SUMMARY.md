@@ -21,6 +21,8 @@
   * [Cobbler👞](commoner/fame/cobbler.md)
   * [Hunter🏹🐾](commoner/fame/hunter.md)
   * [Butcher🍖](commoner/fame/butcher.md)
+  * [Carpenter](commoner/fame/carpenter.md)
+  * [Tree Feller](commoner/fame/tree-feller.md)
 * [Infamy Route](commoner/infamy.md)
 * [Service Route](commoner/service.md)
 
