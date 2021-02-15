@@ -31,9 +31,13 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 
 #### Additional requirements:
 
+* **Channel:** \#workshops
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
-* **Channel:** \#workshops
+* **Minimum Stamina:** 50%
+  * **Raw Stamina Cost:** 5 ****
+* **XP Reward:** 3
+  * **XP Reward Cooldown:** 24h
 
 ## Relationship with the Market and other Users:
 

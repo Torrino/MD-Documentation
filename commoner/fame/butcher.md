@@ -61,6 +61,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 #### Additional requirements:
 
 * **Necessary tool:** Slaughter Knife
+  * **Location:** Primary slot
 * **Channel:** \#workshops
 
 ## Relationship with the Market and other Users:
