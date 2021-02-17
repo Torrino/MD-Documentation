@@ -8,11 +8,11 @@ The Fame Route of the Commoner Path is based on using each role's specific comma
 * [Weaponsmith](weaponsmith.md)
 * [Tailor](tailor.md)
 * [Cobbler](cobbler.md)
-* Hunter
-* Butcher
-* Carpenter
-* Tree Feller
-* Merchant
-* Farmer
-* Miner
+* [Hunter](hunter.md)
+* [Butcher](butcher.md)
+* [Carpenter](carpenter.md)
+* [Tree Feller](tree-feller.md)
+* [Merchant](merchant.md)
+* [Farmer](farmer.md)
+* [Miner](miner.md)
 
