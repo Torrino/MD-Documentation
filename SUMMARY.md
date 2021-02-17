@@ -26,7 +26,12 @@
   * [Merchant 📦](commoner/fame/merchant.md)
   * [Farmer 🐖](commoner/fame/farmer.md)
   * [Miner ⛏️](commoner/fame/miner.md)
-* [Infamy Route](commoner/infamy.md)
+* [Infamy Route](commoner/infamy/README.md)
+  * [Thief 🤏](commoner/infamy/thief.md)
+  * [Headhunter 🗡️](commoner/infamy/headhunter.md)
+  * [Smuggler 🚣‍♂️](commoner/infamy/smuggler.md)
+  * [Bandit 🤺](commoner/infamy/bandit.md)
+  * [Thug 👊](commoner/infamy/thug.md)
 * [Service Route](commoner/service.md)
 
 ## ⛪Clergy Path
