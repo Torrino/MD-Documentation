@@ -42,6 +42,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
+  * **XP Reward While on Cooldown:** 1
 
 ```javascript
 r!tan <amount>
@@ -60,6 +61,7 @@ The `r!tan`command is used by the Butcher in order to successfully tan ordinary 
   * **Raw Stamina Cost:** 5
 * **XP Reward:** 1
   * **XP Reward Cooldown:** 24h
+  * **XP Reward While on Cooldown: jebo te allah**
 
 ## Relationship with the Market and other Users:
 

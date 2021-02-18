@@ -41,6 +41,7 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
+  * **XP Reward While on Cooldown:** 1
 
 ## Relationship with the Market and other Users:
 
