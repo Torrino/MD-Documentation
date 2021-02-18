@@ -6,45 +6,38 @@ description: A page detailing the Farmer role within Medieval Discord.
 
 ## Description:
 
-Farmers make up the foundation of feudal society. They use tools to grow rye and wheat, which they can sell as grain once harvested, fruits from around Rosewood's orchards, various vegetables, and they also practice animal husbandry growing various farm animals which they slaughter seasonally for their meat and materials. They are the peasantry.
+Farmers make up the foundation of feudal society. They use tools to grow rye and wheat, which they can sell as grain once harvested, various vegetables, and they also practice animal husbandry growing various farm animals which they slaughter seasonally for their meat and materials. They are the peasantry.
 
 ## Mechanics:
 
 ```javascript
-r!harvest <animal name>
+r!harvest
 ```
 
-_`<animal name>`_ _- The name of the animal corpse you're trying to butcher._ 
+The `r!harvest`command is used by Farmers in order to gather grain and vegetables in their inventory.
 
-_Examples:_   
-_`r!butcher rabbit`  - requires 1x rabbit corpse in your inventory  
-`r!butcher cow` - requires 1x slaughtered cow in your inventory_ 
+#### Possible Outcomes:
 
-The `r!butcher`command is used by the Butcher in order to successfully gather meat and materials off of hunted or slaughtered animals. You must have the appropriate corpse of the animal in your inventory in order to butcher it for materials and meat.
-
-#### Animal Corpses:
-
-* **Slaughtered Pig** \(gives Raw Pork and Leather\)
-* **Slaughtered Cow** \(gives Raw Beef/Veal and Leather\)
-* **Slaughtered Chicken** \(gives Raw Chicken and Feathers\)
-* **Slaughtered Sheep** \(gives Raw Lamb and Wool\)
-* **Deer corpse** \(gives Raw Venison and Leather\)
-* **Boar corpse** \(gives Raw Boar and Leather\)
-* **Rabbit corpse** \(gives Raw Hare and Fur\)
-* **Pheasant corpse** \(gives Raw Pheasant and Feathers\)
+* **Grain**
+* **Cabbage**
+* **Lettuce**
+* **Onions**
+* **Carrots**
+* **Field Peas**
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
-* **Necessary tool:** Slaughter Knife
+* **Channel:** \#farmlands
+* **Necessary tool:** Hoe
   * **Location:** Primary slot
 * **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
+  * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
+  * **XP Reward While on Cooldown:** 1
 
 ```javascript
-r!tan <amount>
+r!slaughter
 ```
 
 _`<amount>`_ _- The amount of leather from your inventory that you want to tan. Example:_ _`r!tan 4`_
@@ -60,6 +53,7 @@ The `r!tan`command is used by the Butcher in order to successfully tan ordinary 
   * **Raw Stamina Cost:** 5
 * **XP Reward:** 1
   * **XP Reward Cooldown:** 24h
+  * **XP Reward While on Cooldown:** 1
 
 ## Relationship with the Market and other Users:
 
