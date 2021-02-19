@@ -34,7 +34,7 @@ The `r!cobble` command is used by the Cobbler in order to craft footwear from si
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!cobble`
 
 ## Relationship with the Market and other Users:
 

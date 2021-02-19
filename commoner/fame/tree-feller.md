@@ -25,7 +25,7 @@ The `r!cut` command is used by the Tree Feller in order to gather wood in their 
   * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!cut`
 
 ## Relationship with the Market and other Users:
 

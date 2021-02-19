@@ -34,7 +34,7 @@ Just like every other smith, the Goldsmith uses the `r!forge` command in order t
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
 
 ## Relationship with the Market and other Users:
 

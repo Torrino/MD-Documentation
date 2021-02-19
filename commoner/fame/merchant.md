@@ -46,7 +46,7 @@ The `r!shipment` command is used by the Merchant in order to obtain a Shipment w
 * **Minimum Stamina:** None
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!shipment`
 
 ## Relationship with the Market and other Users:
 

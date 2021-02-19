@@ -34,7 +34,7 @@ The `r!harvest`command is used by Farmers in order to gather grain and vegetable
   * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!harvest`
 
 ```javascript
 r!slaughter
@@ -58,7 +58,7 @@ The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, 
   * **Raw Stamina Cost: 1**5
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!slaughter`
 
 ## Relationship with the Market and other Users:
 

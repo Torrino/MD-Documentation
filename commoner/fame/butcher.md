@@ -42,7 +42,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 1
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!butcher`
 
 ```javascript
 r!tan <amount>
