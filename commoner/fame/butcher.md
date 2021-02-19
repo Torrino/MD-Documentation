@@ -59,9 +59,9 @@ The `r!tan`command is used by the Butcher in order to successfully tan ordinary 
   * **Location:** Primary slot
 * **Minimum Stamina:** 25%
   * **Raw Stamina Cost:** 5
-* **XP Reward:** 1
+* **XP Reward:** 1 per Leather tanned
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown: jebo te allah**
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!tan`
 
 ## Relationship with the Market and other Users:
 
