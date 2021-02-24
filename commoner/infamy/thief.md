@@ -4,15 +4,21 @@ description: A page detailing the Thief role within Medieval Discord.
 
 # Thief 🤏
 
+## Description:
+
+Thieves are part of Rosewood's criminal underworld and make a living by stealing the buckles and items of others.
+
 ## Mechanics:
 
 ```javascript
-r!forge <item name>
+r!pickpocket [user] [item name]
 ```
 
-_`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!forge slaughter knife`_
+`r!pickpocket` - _Used to pickpocket NPCs in Rosewood_
 
-Just like every other smith, the Blacksmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Blacksmith has a Hammer equipped.
+`r!pickpocket user` - _Used to pickpocket other characters_
+
+`r!pickpocket user item name` - _Used to steal a specific item from another character's inventory_
 
 #### Recipes:
 
