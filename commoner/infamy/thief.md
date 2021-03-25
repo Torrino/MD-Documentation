@@ -6,7 +6,7 @@ description: A page detailing the Thief role within Medieval Discord.
 
 ## Description:
 
-Thieves are part of Rosewood's criminal underworld and make a living by stealing the buckles and items of others.
+Thieves are part of Rosewood's criminal underworld and make a living by stealing the buckles and items of others. They are the least dangerous criminals in Rosewood.
 
 ## Mechanics:
 
