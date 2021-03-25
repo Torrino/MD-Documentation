@@ -28,6 +28,7 @@ The `r!mine` command is used by the Miner in order to obtain stone and ore from 
 
 * **Channel:** \#mines
 * **Necessary tool:** Pickaxe
+  * **Location:** Primary slot
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 15 ****
 * **XP Reward:** 3
