@@ -20,33 +20,21 @@ r!pickpocket [user] [item name]
 
 `r!pickpocket user item name` - _Used to steal a specific item from another character's inventory_
 
-#### Recipes:
-
-* **Axe** \[3 Iron Bars + 2 Wood\]
-* **Hammer** \[1 Iron Bar + 1 Wood\]
-* **Nails** \[1 Iron Bar\]
-* **Horseshoe** \[2 Iron Bars\]
-* **Slaughter Knife** \[1 Iron Bar + 1 Wood\]
-* **Hoe** \[2 Iron Bars + 2 Wood\]
-* **Steel Bar** \[5 Iron Ore + 10 Charcoal\]
-* **Iron Bar** \[5 Iron Ore\]
-
 #### Additional requirements:
 
-* **Channel:** \#workshops
-* **Necessary tool:** Hammer
-  * **Location:** Primary slot
-* **Minimum Stamina:** 50%
+* **Channel:** Any
+* **Necessary tool:** None
+* **Minimum Stamina:** 10%
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!pickpocket`
 
 ## Relationship with the Market and other Users:
 
-The Blacksmith can, of course, decide to buy the materials they need from the Market, and sell their finished product back to it. However, if a user is attempting to maximize their profit, they should consider trading with other users for both materials and products.
+Thieves make a living by lifting buckles off of unsuspecting NPCs and other Characters. The easiest command to use, with the least consequences, is `r!pickpocket` without the mention of any user. It will provide the Thief with 10-50 buckles per use, and has the highest success chance out of all of its variations. Additionally, it has a chance of providing the Thief with the "Stolen Goods" item, which can be sold on the Black Market. The punishment for failing this command is a fine of 100 buckles, applied immediately.
 
-Ideally, a Blacksmith will buy Iron Ore from a Miner, and Wood from a Tree Feller. The Blacksmith can then turn those into ingredients for their recipes. Only Charcoal cannot be acquired through other users and must be bought from the Market directly.
+While the base pickpocket command is available to everyone, pickpocket that mentions other users are strictly reserved for Thieves. Only mentioning another user means the coin balance of the user mentioned will be targeted, and if successful, will transfer 25% of it to your coin balance, without anyone noticing. Failing this command will cost the Thief their fingers. Each time a Thief is caught using the `r!pickpocket user` command, they will be arrested by the Watch and taken to the \#dungeons, where they will lose one finger. When the fourth attempt fails, a Thief does not lose a fourth finger, instead they are Outlawed and teleported to the \#forest.
 
-Once the forging process is complete, the Blacksmith would ideally sell their goods to user Tree Fellers \(Axe\), other Smiths \(Hammer\), Farmers \(Hoe and Slaughter Knife\), Butchers \(Slaughter Knife\), Armor and Weaponsmiths \(Steel Bar and Iron Bar\), Carpenters \(Hammer and Nails\) and any horse-owning user \(Horseshoe\).
+Finally, Thieves have the ability to steal a specific item from another user's inventory by mentioning both them and the item. This variant of the pickpocket command is the hardest. If Thieves mention a user and then state an item that is not in their inventory, or is equipped, the command will fail and they will be caught. Failing works the same way as with using just `r!pickpocket user`.
 
