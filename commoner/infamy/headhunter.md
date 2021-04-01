@@ -32,6 +32,8 @@ r!seek
 Headhunters make a living by hunting down people who have bounties on their heads, be they Outlaws or simply people who someone wants dead. Additionally, they also attack Bandits, as their heads also bring a lot of profit for them. The `r!seek` command, if successful will grant a number of "Proof of Bounty" which can be sold on the Market. Additionally, there is also a small chance that a successful seek will also drop random weapons/armor. Failing the `r!seek` command will incur a -20 HP penalty, meaning you can end up wounded, maimed, killed, or even kidnapped if you're really unlucky.
 
 {% hint style="info" %}
-_Characters with the Headhunter role have a buff during combat against other characters with the Bandit/Outlaw role._
+_Characters with the Headhunter role have a buff during combat against other characters with the Bandit/Outlaw/Bounty role._
 {% endhint %}
+
+Unlike other criminals, Headhunters' work is not explicitly illegal, since Bandits and Outlaws are enemies of the Crown. However, their illegality comes from their readiness to accept illegal contracts like bounties.
 
