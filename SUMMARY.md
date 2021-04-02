@@ -9,6 +9,7 @@
 ## 📚Character
 
 * [Character Creator](character/cc/README.md)
+  * [Region](character/cc/region.md)
   * [Religion](character/cc/religion.md)
   * [Heritage](character/cc/heritage.md)
   * [Paths](character/cc/paths.md)
