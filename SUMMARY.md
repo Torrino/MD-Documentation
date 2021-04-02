@@ -8,7 +8,10 @@
 
 ## 📚Character
 
-* [Character Creator](character/cc.md)
+* [Character Creator](character/cc/README.md)
+  * [Religion](character/cc/religion.md)
+  * [Heritage](character/cc/heritage.md)
+  * [Paths](character/cc/paths.md)
 * [SICS Stats](character/sics-stats.md)
 * [Health](character/health.md)
 * [Inventory](character/inventory.md)
