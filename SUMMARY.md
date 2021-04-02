@@ -4,14 +4,11 @@
 
 ## 🧾Getting Started <a id="start"></a>
 
-* [Character Creator](start/cc.md)
-
-## ❓FaQ
-
-* [Frequently Asked Questions](faq/frequently-asked-questions.md)
+* [❓Frequently Asked Questions](start/frequently-asked-questions.md)
 
 ## Character
 
+* [Character Creator](character/cc.md)
 * [SICS Stats](character/sics-stats.md)
 * [Health](character/health.md)
 * [Inventory](character/inventory.md)
