@@ -10,6 +10,12 @@
 
 * [Frequently Asked Questions](faq/frequently-asked-questions.md)
 
+## Character
+
+* [SICS Stats](character/sics-stats.md)
+* [Health](character/health.md)
+* [Inventory](character/inventory.md)
+
 ## 💰Commoner Path <a id="commoner"></a>
 
 * [Fame Route](commoner/fame/README.md)
