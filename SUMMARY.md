@@ -63,7 +63,9 @@
 ## Combat
 
 * [Combat Gear](combat/combat-gear/README.md)
-  * [Weapons](combat/combat-gear/weapons.md)
+  * [Weapons](combat/combat-gear/weapons/README.md)
+    * [Swords](combat/combat-gear/weapons/swords/README.md)
+      * [Short Sword](combat/combat-gear/weapons/swords/short-sword.md)
   * [Armor](combat/combat-gear/armor.md)
   * [Shields](combat/combat-gear/shields.md)
 * [Combat Level](combat/combat-level/README.md)
