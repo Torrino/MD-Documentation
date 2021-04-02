@@ -6,7 +6,7 @@
 
 * [❓Frequently Asked Questions](start/frequently-asked-questions.md)
 
-## Character
+## 📚Character
 
 * [Character Creator](character/cc.md)
 * [SICS Stats](character/sics-stats.md)
