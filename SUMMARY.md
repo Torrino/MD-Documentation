@@ -60,6 +60,28 @@
 * [Lesser Nobility](majesty-path/lesser-nobility.md)
 * [High Nobility](majesty-path/high-nobility.md)
 
+## Combat
+
+* [Combat Gear](combat/combat-gear/README.md)
+  * [Weapons](combat/combat-gear/weapons.md)
+  * [Armor](combat/combat-gear/armor.md)
+  * [Shields](combat/combat-gear/shields.md)
+* [Combat Level](combat/combat-level/README.md)
+  * [Training](combat/combat-level/training.md)
+  * [Sparring](combat/combat-level/sparring.md)
+  * [Live Combat](combat/combat-level/live-combat.md)
+* [Combat Rolls](combat/combat-rolls/README.md)
+  * [Damage Roll](combat/combat-rolls/damage-roll.md)
+  * [Dodge Roll](combat/combat-rolls/dodge-roll.md)
+* [End of Combat](combat/end-of-combat/README.md)
+  * [Death](combat/end-of-combat/death.md)
+  * [Yield](combat/end-of-combat/yield.md)
+  * [Knock Out](combat/end-of-combat/knock-out.md)
+  * [Escape](combat/end-of-combat/escape.md)
+* [Combat Mechanics](combat/combat-mechanics/README.md)
+  * [Wield](combat/combat-mechanics/wield.md)
+  * [Mounted Combat](combat/combat-mechanics/mounted-combat.md)
+
 ---
 
 * [Fund MD on Patreon](https://patreon.com/medievaldiscord)
