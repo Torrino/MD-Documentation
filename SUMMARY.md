@@ -9,11 +9,14 @@
 ## 📚Character
 
 * [Character Creator](character/cc/README.md)
-  * [Region](character/cc/region.md)
+  * [Name](character/cc/name.md)
+  * [Gender](character/cc/gender.md)
+  * [Age](character/cc/age.md)
   * [Religion](character/cc/religion.md)
   * [Heritage](character/cc/heritage.md)
+  * [Region](character/cc/region.md)
   * [Paths](character/cc/paths.md)
-* [SICS Stats](character/sics-stats.md)
+  * [SICS Stats](character/cc/sics-stats.md)
 * [Health](character/health.md)
 * [Inventory](character/inventory.md)
 
