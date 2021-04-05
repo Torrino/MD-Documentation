@@ -1,5 +1,5 @@
 ---
-description: A page detailing naming conventions on Medieval Discord.
+description: A page detailing naming conventions in Medieval Discord.
 ---
 
 # Name
