@@ -4,8 +4,6 @@ description: A page detailing gender conventions in Medieval Discord.
 
 # Gender
 
-
-
 ### 1. **Characters can only be male or female**
 
 > _While people today can identify with many genders, gender theory wasn't even a distant concept in the 13th century. Therefore, in order to uphold medieval realism, we enforce the choice between the two binary genders, male and female; male being related to man, and female related to women._
