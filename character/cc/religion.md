@@ -83,6 +83,14 @@ Many religious interpretations of Christian dogma have rise over the ages, howev
 
 Heretics are generally tolerated in Rosewood by the population, especially if they are not violent or dangerous. However, the Law does not grant them protection and the French Inquisition has a Crown-backed mandate to exterminate all heresy from Rosewood and the rest of France.
 {% endtab %}
+
+{% tab title="Paganism" %}
+Paganism is not one set religion. Instead, it is a multitude of religions, all unified by a number of common denominators. Pagan religions are usually polytheistic, and ascribe various naturalistic forces to various deities. These deities are usually represented by idols, and often require either animal or human sacrifices. There is a strong emphasis on nature, and it is diametrically opposed to the ideas of Abrahamic religions. Therefore, this name is often given to religions that are before monotheism in Europe, or simply those that are not Abrahamic. The most famous form of Paganism is one related to the Old Gods of the Norse pantheon, due to migrations and raids from the dying Viking culture.
+{% endtab %}
+
+{% tab title="Atheism" %}
+Medieval Atheism is almost never the absolute rejection of divinity. In actuality, most Medieval Atheists do believe in some sort of divinity, although it is not defined through any organized religion. There is faith in the existence of some sort of structure or grand creator beyond human comprehension, however it is a belief free of dogma and one that is based on general morality. The highest virtue is to think for yourself and reject the dehumanizing dogma often propagated by organized religions. Atheists may even believe in the Abrahamic God, but reject the view given by Christian, Jewish, or Islamic teachings. They believe that any notion of "God" remains a personal thing, that should in no way be regulated, and exists only to serve the individual though various ways. However, of course, there would also be Medieval Atheists who reject any god, and only believe in reason and the physical world.
+{% endtab %}
 {% endtabs %}
 
 ### 2. A name must be accurate to the culture
