@@ -4,12 +4,21 @@ The Character Creator is Medieval Discord's solution to character creation. It e
 
 Every OC has their:
 
-1. [Name](name.md)
-2. [Gender](gender.md)
-3. [Age](age.md)
-4. [Religion](religion.md)
-5. [Heritage](heritage.md)
-6. [Region](region.md)
-7. [Path](paths.md)
-8. [SICS Stats](sics-stats.md)
+{% page-ref page="name.md" %}
+
+{% page-ref page="gender.md" %}
+
+{% page-ref page="age.md" %}
+
+{% page-ref page="religion.md" %}
+
+{% page-ref page="heritage.md" %}
+
+{% page-ref page="region.md" %}
+
+{% page-ref page="paths.md" %}
+
+{% page-ref page="sics-stats.md" %}
+
+
 

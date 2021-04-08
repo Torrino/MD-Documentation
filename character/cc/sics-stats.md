@@ -24,5 +24,3 @@ description: A page detailing SICS conventions in Medieval Discord.
 
 > _Stamina is a character's ability to use commands. It is likely the most important Stat, as it is used in Combat and in using other IC roles, as well as your carry weight._
 
-\_\_
-
