@@ -6,14 +6,6 @@ description: A page religious conventions in Medieval Discord.
 
 ## Playable religions in MD:
 
-1. Roman Catholicism 
-2. Judaism
-3. Islam
-4. Byzantine Orthodoxy
-5. Christian Heresy
-6. Paganism
-7. Atheism
-
 {% tabs %}
 {% tab title="Roman Catholicism" %}
 Roman Catholicism is the main Western branch of Christianity that emerged after the schism of 1087 after the First Council of Rosewood. Its origin is traced to the Sacrifice of Christ and it is part of Christianity which is an Abrahamic religion, sharing its lore with Judaism and Islam. It is distinguishable by certain doctrines and beliefs:
@@ -93,19 +85,15 @@ Medieval Atheism is almost never the absolute rejection of divinity. In actualit
 {% endtab %}
 {% endtabs %}
 
-### 2. A name must be accurate to the culture
+### 1. Pool of Religions
 
-> _Firstly, parents would make sure the name they gave their child was one that corresponded with their gender. Unisex names were not common, but they were present nevertheless. Following traditional roles in society, boys' names would have something to do with courage, wisdom, strength, while girls' names would have some connection to beauty, humility, and wisdom. The names of saints and Biblical figures were particularly popular. In addition to those conventions, names must keep with the language of the region the person is born into. The language spoken in MD's Kingdom of France is closest to Anglo-Norman. So names that take influence from Anglo-Saxon culture, as well as Norman-Latin names, are acceptable._
+> _Every character is defined by some sort of faith. For MD's purposes, we've given 7 options for users to pick from, based on religions that would have some sort of representation within Rosewood. Other religions exist, of course, but they are irrelevant for RP in Rosewood. They can be mentioned, but realistically, almost no one would believe in them so far away from their region/time of origin._
 
-{% hint style="danger" %}
-There are rules when it comes to naming that have not been addressed above. There are obvious regulations placed on the names of OCs, and those are:  
-  
-1. Names must be between 3-10 letters  
-2. Names must not contain offensive language  
-3. Names must not be taken out of popular culture
-{% endhint %}
+### 2. Absolute devotion
 
-{% hint style="warning" %}
-Your name will be subject to change if it does not follow the rules/conventions stated above. A change can be done without warning or approval from the user.
+> _A character's faith represents their steadfast belief. One cannot be a Christian, and actually believe in something else. However, an option exists for those who become disillusioned with their faith. Every character has one chance to switch their religion if they find someone else of that same faith._
+
+{% hint style="info" %}
+There are no religion roles, meaning MetaRP is significantly more difficult. However, a character will gain a role when they convert from one religion to another.
 {% endhint %}
 
