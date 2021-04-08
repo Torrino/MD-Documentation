@@ -52,3 +52,11 @@ The land east of the Ruslands, unknown to most people and almost fairy tale-like
 {% endtab %}
 {% endtabs %}
 
+### 1. Only bonus lore
+
+> _Your character's heritage should play almost no part in their development, since their Region of birth is something different entirely. All characters are born in France, and may only trace their heritage to distant regions. This is in order to preserve some realism._
+
+{% hint style="danger" %}
+_Despite drawing their descent from a certain region, your character will speak Common by default, as they were born in France, somewhere near Rosewood._
+{% endhint %}
+
