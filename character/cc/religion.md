@@ -1,5 +1,5 @@
 ---
-description: A page religious conventions in Medieval Discord.
+description: A page detailing religious conventions in Medieval Discord.
 ---
 
 # Religion

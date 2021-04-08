@@ -1,5 +1,5 @@
 ---
-description: A page heritage conventions in Medieval Discord.
+description: A page detailing heritage conventions in Medieval Discord.
 ---
 
 # Heritage

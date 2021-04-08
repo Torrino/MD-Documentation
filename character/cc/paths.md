@@ -1,5 +1,5 @@
 ---
-description: A page path conventions in Medieval Discord.
+description: A page detailing path conventions in Medieval Discord.
 ---
 
 # Paths

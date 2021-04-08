@@ -1,5 +1,5 @@
 ---
-description: A page regional conventions in Medieval Discord.
+description: A page detailing regional conventions in Medieval Discord.
 ---
 
 # Region
