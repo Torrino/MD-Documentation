@@ -54,6 +54,35 @@ While Islam does not allow non-believers into Heaven, it makes exceptions for Je
 
 Muslims are regarded as the keepers of ancient knowledge. Baghdad, a powerful city in the crescent hold the House of Wisdom where the acumen of Islamic innovation is stored. Through war and trade, this knowledge is slowly making its way to Rosewood, as are many Muslims from Mesopotamia, but mostly from the Moorish lands after being persecuted by the Christian Kings of Iberia. In Rosewood, their freedom is guaranteed by the Legal Code, and they are seen as wealthy merchants and wise scholars.
 {% endtab %}
+
+{% tab title="Byzantine Orthodoxy" %}
+Byzantine Orthodoxy is the Eastern branch of Christianity practiced mostly by the Byzantine Romans, but the converts of the Ruslands as well. They emerged in reaction to Catholic dogmatic dominance in 1087 and formed four Holy Sees \(Constantinople, Antioch, Jerusalem, and Alexandria\), all led by a Patriarch, with the Patriarch of Constantinople regarded as the Inter Pares, or the First Among Equals. They venerate Jesus, and Mary and follow the Old and New Testaments. When compared to Roman Catholicism, they are different in a few ways:
+
+* The Orthodox reject Papal supremacy, and opt for regional autonomy through many local Patriarchs and Bishops.
+* The East rejects the idea of Mary's Immaculate Conception, meaning she was free of sin. Instead, they believe her to be an ordinary woman, chosen by God to become the Mother of Christ.
+* Most prominently, the Orthodox place a larger emphasis on the Holy Spirit, believing it to come from the Father, rather than through both the Father and the Son. 
+* Orthodox doctrine does not encourage celibacy, but does not discourage it either. Married men can become Patriarchs, however, women are not allowed into the clergy at all.
+* The Eastern Church allows the doctrine of economia, meaning that Church dogma can be flexible depending on the situation. Not all Church Law is absolute in every situation.
+* Byzantine Orthodoxy reject the idea of temporal punishment through Purgatory. Instead, all sinners go directly to hell, and the saved go to Heaven.
+* Byzantine Christians do not trust in the absolute truth of the Scriptures, as they are unknowable to us. Instead they base their faith on historical accounts of saints, and councils, as well as icons and old teachings.
+* Less importance is given to the transformation of substances during the Eucharist, although they do believe it happens.
+* The Original Sin is regarded as the Ancestral Sin, and represent Man's rejection of God's love, rather than the indulgence of carnal pleasures, while Catholicism sees carnal relations as inherently sinful and only acceptable for procreation. Orthodoxy does not condemn bodily pleasure outright, but rather mourns the loss of God's love. Additionally, the Ancestral Sin is not inherited, but instead its consequences.
+* Confession, or Penance is public instead of private, only then can Absolution be granted.
+* The Orthodox Church allows remarriage after the death of a spouse, or after a divorce.
+{% endtab %}
+
+{% tab title="Christian Heresy" %}
+Many religious interpretations of Christian dogma have rise over the ages, however there are handful of sects that were large enough to spread, and threatening enough to be recognized by the Catholic Church as heretical beliefs. There have been many, and there will be many more. However, the most prominent heretics are the following:
+
+1. [Anglicans](https://medievaldiscordrp.com/heresies/2/)
+2. [Genesians](https://medievaldiscordrp.com/heresies/3/)
+3. [Josephites](https://medievaldiscordrp.com/heresies/4/)
+4. [Cathars](https://medievaldiscordrp.com/heresies/5/)
+5. [Gladii](https://medievaldiscordrp.com/heresies/6/)
+6. [Sophiaites](https://medievaldiscordrp.com/heresies/7/)
+
+Heretics are generally tolerated in Rosewood by the population, especially if they are not violent or dangerous. However, the Law does not grant them protection and the French Inquisition has a Crown-backed mandate to exterminate all heresy from Rosewood and the rest of France.
+{% endtab %}
 {% endtabs %}
 
 ### 2. A name must be accurate to the culture
