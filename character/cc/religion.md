@@ -4,7 +4,7 @@ description: A page detailing religious conventions in Medieval Discord.
 
 # Religion
 
-## Playable religions in MD:
+Playable religions in MD:
 
 {% tabs %}
 {% tab title="Roman Catholicism" %}
@@ -36,7 +36,7 @@ Jews hold a unique place in Medieval society. They are regarded as wise Scholars
 {% endtab %}
 
 {% tab title="Islam" %}
-Islam is the youngest Abrahamic religion. It originated in 622 when Mohammad made the journey from Mecca to Medina. Like Judaism, it rejects the idea of the Holy Trinity and believes in God being a single, all-powerful creator. Islam doesn't have a clerical structure that is meant to guide man towards God or administer sacraments. Like Judaism, their clergy usually has a mentoring, teaching, and advisory role within local communities. Individual Imams are the leaders of Islam for small groups of Muslims. However, there are attempts at bridging the gap between secular and divine through titles like Caliph or Amir al-Mu'minin which try to claim both earthly and clerical leadership over their respective regions, but the Islamic world as a whole.
+Islam is the youngest Abrahamic religion. It originated in 622 when Mohammad made the journey from Mecca to Medina. Like Judaism, it rejects the idea of the Holy Trinity and believes in God being a single, all-powerful creator. Islam doesn't have a clerical structure that is meant to guide man towards God or administer sacraments. Like Judaism, their clergy usually has a mentoring, teaching, and advisory role within local communities. Individual Imams are the leaders of Islam for small groups of Muslims. However, there are attempts at bridging the gap between secular and divine through titles like Caliph or Amir al-Mu'minin which try to claim both earthly and clerical leadership over not just their respective regions, but the Islamic world as a whole.
 
 Jesus is considered a prophet, however Islam rejects the idea that he is the son of God, or that he is part of God. However, Muslims do believe that Mary gave a miracle birth to him, but he could not absolve sin, nor return from the dead. Additionally, Islam does not apply the Original Sin to all of mankind. The entire myth of the Fall is seen as a small misstep in the life of Adam and Eve. Something that does not reflect on the rest of mankind.
 
@@ -44,21 +44,21 @@ Islam holds the Qur'an as the final revelation and the absolute word of God writ
 
 While Islam does not allow non-believers into Heaven, it makes exceptions for Jews and Christians who lived before the time of Mohammad, and it makes exception for those who live morally good lives, but have not had the opportunity or knowledge to accept Islam. All those who know the word of God, but reject it, will be sent to Hell for all eternity. However, Islam does allow redemption from Hell in the case of some sins.
 
-Muslims are regarded as the keepers of ancient knowledge. Baghdad, a powerful city in the crescent hold the House of Wisdom where the acumen of Islamic innovation is stored. Through war and trade, this knowledge is slowly making its way to Rosewood, as are many Muslims from Mesopotamia, but mostly from the Moorish lands after being persecuted by the Christian Kings of Iberia. In Rosewood, their freedom is guaranteed by the Legal Code, and they are seen as wealthy merchants and wise scholars.
+Muslims are regarded as the keepers of ancient knowledge. Baghdad, a powerful city in the crescent holds the House of Wisdom where the acumen of Islamic innovation is stored. Through war and trade, this knowledge is slowly making its way to Rosewood, as are many Muslims from Mesopotamia, but mostly from the Moorish lands after being persecuted by the Christian Kings of Iberia. In Rosewood, their freedom is guaranteed by the Legal Code, and they are seen as wealthy merchants and wise scholars.
 {% endtab %}
 
 {% tab title="Byzantine Orthodoxy" %}
 Byzantine Orthodoxy is the Eastern branch of Christianity practiced mostly by the Byzantine Romans, but the converts of the Ruslands as well. They emerged in reaction to Catholic dogmatic dominance in 1087 and formed four Holy Sees \(Constantinople, Antioch, Jerusalem, and Alexandria\), all led by a Patriarch, with the Patriarch of Constantinople regarded as the Inter Pares, or the First Among Equals. They venerate Jesus, and Mary and follow the Old and New Testaments. When compared to Roman Catholicism, they are different in a few ways:
 
-* The Orthodox reject Papal supremacy, and opt for regional autonomy through many local Patriarchs and Bishops.
+* The Orthodox reject Papal supremacy, and opt for regional autonomy through local Patriarchs and Bishops.
 * The East rejects the idea of Mary's Immaculate Conception, meaning she was free of sin. Instead, they believe her to be an ordinary woman, chosen by God to become the Mother of Christ.
 * Most prominently, the Orthodox place a larger emphasis on the Holy Spirit, believing it to come from the Father, rather than through both the Father and the Son. 
 * Orthodox doctrine does not encourage celibacy, but does not discourage it either. Married men can become Patriarchs, however, women are not allowed into the clergy at all.
 * The Eastern Church allows the doctrine of economia, meaning that Church dogma can be flexible depending on the situation. Not all Church Law is absolute in every situation.
-* Byzantine Orthodoxy reject the idea of temporal punishment through Purgatory. Instead, all sinners go directly to hell, and the saved go to Heaven.
+* Byzantine Orthodoxy rejects the idea of temporal punishment through Purgatory. Instead, all sinners go directly to hell, and the saved go to Heaven.
 * Byzantine Christians do not trust in the absolute truth of the Scriptures, as they are unknowable to us. Instead they base their faith on historical accounts of saints, and councils, as well as icons and old teachings.
 * Less importance is given to the transformation of substances during the Eucharist, although they do believe it happens.
-* The Original Sin is regarded as the Ancestral Sin, and represent Man's rejection of God's love, rather than the indulgence of carnal pleasures, while Catholicism sees carnal relations as inherently sinful and only acceptable for procreation. Orthodoxy does not condemn bodily pleasure outright, but rather mourns the loss of God's love. Additionally, the Ancestral Sin is not inherited, but instead its consequences.
+* The Original Sin is regarded as the Ancestral Sin, and represent Man's rejection of God's love, rather than the indulgence of carnal pleasures, while Catholicism sees carnal relations as inherently sinful and only acceptable for procreation. Orthodoxy does not condemn bodily pleasure outright, but rather mourns the loss of God's love. Additionally, the Ancestral Sin is not inherited, but instead its consequences are.
 * Confession, or Penance is public instead of private, only then can Absolution be granted.
 * The Orthodox Church allows remarriage after the death of a spouse, or after a divorce.
 {% endtab %}
