@@ -17,7 +17,10 @@
   * [Region](character/cc/region.md)
   * [Paths](character/cc/paths.md)
   * [SICS Stats](character/cc/sics-stats.md)
-* [Health](character/health.md)
+* [Health](character/health/README.md)
+  * [Sleeping](character/health/sleeping.md)
+  * [Eating and Drinking](character/health/eating-and-drinking.md)
+  * [Healing](character/health/healing.md)
 * [Inventory](character/inventory.md)
 
 ## 💰Commoner Path <a id="commoner"></a>

@@ -26,7 +26,7 @@ Things that impact your Max Health:
 
 It is inevitable that your Character will lose HP at some point, whether that be through failing a command which has an HP Fail Punishment, or through Combat with another Character. In any such event, your Character can regenerate their HP in any one of three ways:
 
-* Sleep
-* Meals/Drinks
-* Heal Command
+* [Sleeping](sleeping.md)
+* [Eating/Drinking](eating-and-drinking.md)
+* [Healing](healing.md)
 
