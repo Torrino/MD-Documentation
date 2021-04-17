@@ -8,5 +8,14 @@ Upon creating a Character, they will be randomly assigned to one of five distric
 
 When `r!sleep` is used in your residential area, or alternatively in another channel that has sleep enabled, you will be given the Resting role, and your Character will be put to sleep. Once asleep, you will have access to the \#dream\_land channel where dreams can be written out.
 
-TREBAJU MI BROJEVI OD MAKA JEBEM T BAJRAM
+In order to wake up, one can use the `r!awaken` command in the \#dream\_land channel. The sleep mechanic can be used once every 16h, in order to avoid spamming. This cooldown is regardless of the duration of your sleep. Depending on the duration, however, you will regenerate different amounts of HP, and Stamina.
+
+* **Between 1-3 Hours**
+  * Regenerate 5% of MaxHP, and 25% of Max Stamina 
+* **Between 3-5 Hours**
+  * Regenerate 10% of MaxHP, and 60% of Max Stamina 
+* **Between 5-7 Hours**
+  * Regenerate 25% of MaxHP, and 100% of Max Stamina 
+* **Anything above 7 Hours**
+  * Regenerate 50% of MaxHP, and 100% of Max Stamina
 
