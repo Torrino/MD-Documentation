@@ -18,9 +18,9 @@ Commoners are Citizens, Artisans, Criminals, and Leisuremen. By default, unless 
 
 The Clergy are members of the Catholic Church in Rosewood and are there to lead the religious of the City. Once in the Clergy, after leveling up, one may choose to progress down their preferred route:
 
-* [Preachment Route](../../clergy-path/preachment.md)
-* [Inquisition Route](../../clergy-path/inquisition.md)
-* [Medicinal Route](../../clergy-path/medicinal.md)
+* [Preachment Route](../../clergy-path/preachment/)
+* [Inquisition Route](../../clergy-path/inquisition/)
+* [Medicinal Route](../../clergy-path/medicinal/)
 
 ## Military Path
 
