@@ -52,6 +52,7 @@
 
 ## ⛪Clergy Path
 
+* [Scribe](clergy-path/scribe.md)
 * [Preachment Route](clergy-path/preachment/README.md)
   * [Deacon](clergy-path/preachment/deacon.md)
   * [Priest](clergy-path/preachment/priest.md)
