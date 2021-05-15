@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Miner role within Medieval Discord.
+description: >-
+  A page detailing the Miner role within Medieval Discord and their mine
+  command.
 ---
 
 # Miner ⛏️

@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Cobbler role within Medieval Discord.
+description: >-
+  A page detailing the Cobbler role within Medieval Discord and their cobble
+  command.
 ---
 
 # Cobbler 👢

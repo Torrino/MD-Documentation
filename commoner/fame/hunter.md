@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Hunter role within Medieval Discord.
+description: >-
+  A page detailing the Hunter role within Medieval Discord and their hunt
+  command.
 ---
 
 # Hunter 🦌

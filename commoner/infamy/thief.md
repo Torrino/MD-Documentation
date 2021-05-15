@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Thief role within Medieval Discord.
+description: >-
+  A page detailing the Thief role within Medieval Discord and their pickpocket
+  command.
 ---
 
 # Thief 🤏

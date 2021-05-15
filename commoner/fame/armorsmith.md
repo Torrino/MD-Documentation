@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Armorsmith role within Medieval Discord.
+description: >-
+  A page detailing the Armorsmith role within Medieval Discord and their forge
+  command.
 ---
 
 # Armorsmith 🛡️

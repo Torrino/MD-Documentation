@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Merchant role within Medieval Discord.
+description: >-
+  A page detailing the Merchant role within Medieval Discord and their shipment
+  mechanic.
 ---
 
 # Merchant 📦

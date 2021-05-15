@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Farmer role within Medieval Discord.
+description: >-
+  A page detailing the Farmer role within Medieval Discord and their harvest and
+  slaughter commands.
 ---
 
 # Farmer 🐖

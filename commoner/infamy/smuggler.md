@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Smuggler role within Medieval Discord.
+description: >-
+  A page detailing the Smuggler role within Medieval Discord and their smuggle
+  command.
 ---
 
 # Smuggler 🚣‍♂️

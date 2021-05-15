@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Tree Feller role within Medieval Discord.
+description: >-
+  A page detailing the Tree Feller role within Medieval Discord and their cut
+  command.
 ---
 
 # Tree Feller 🌳

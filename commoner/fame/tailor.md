@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Tailor role within Medieval Discord.
+description: >-
+  A page detailing the Tailor role within Medieval Discord and their Tailor
+  command.
 ---
 
 # Tailor 🧵

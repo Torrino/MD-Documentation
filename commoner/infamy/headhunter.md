@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Headhunter role within Medieval Discord.
+description: >-
+  A page detailing the Headhunter role within Medieval Discord and their seek
+  command.
 ---
 
 # Headhunter 🗡️

@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Thief role within Medieval Discord.
+description: >-
+  A page detailing the Scribe role within Medieval Discord and their transcribe
+  and alm commands.
 ---
 
 # Scribe
@@ -25,6 +27,19 @@ r!transcribe
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
   * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!pickpocket`
+
+```javascript
+r!alm
+```
+
+`r!alm` - _Used to trade coins for piety_
+
+#### Additional requirements:
+
+* **Channel:** \#cathedral
+* **Necessary tool:** Buckles
+* **Minimum Stamina:** None
+* **XP Reward:** Scales with the amount of Buckles invested
 
 ## In-depth guide:
 

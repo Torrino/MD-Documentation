@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Thug role within Medieval Discord.
+description: >-
+  A page detailing the Thug role within Medieval Discord and their racketeer
+  command.
 ---
 
 # Thug 👊

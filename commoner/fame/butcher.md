@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Butcher role within Medieval Discord.
+description: >-
+  A page detailing the Butcher role within Medieval Discord and their butcher
+  and tan commands.
 ---
 
 # Butcher 🥩

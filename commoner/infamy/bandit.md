@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Bandit role within Medieval Discord.
+description: >-
+  A page detailing the Bandit role within Medieval Discord and their rob
+  mechanic.
 ---
 
 # Bandit 🤺

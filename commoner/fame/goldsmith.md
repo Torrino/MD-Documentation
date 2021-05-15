@@ -1,5 +1,7 @@
 ---
-description: A page detailing the Goldsmith role within Medieval Discord.
+description: >-
+  A page detailing the Goldsmith role within Medieval Discord and their forge
+  command.
 ---
 
 # Goldsmith 💍
