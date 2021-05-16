@@ -58,8 +58,7 @@ _If the chosen item has `durability`and there are multiple instances of that ite
 
 ### _**Failure**_
 
-_**Effect:**_ `Loss of finger`  
-
+_**Effect:**_ `Loss of finger`
 
 _Failing this command will cost the Thief their fingers. Each time a Thief is caught using the `r!pickpocket user` command, they will be arrested by the Watch and taken to the \#dungeons, where they will lose one finger. When the fourth attempt fails, a Thief does not lose a fourth finger, instead they are Outlawed and teleported to the \#forest._
 
