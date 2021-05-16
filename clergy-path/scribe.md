@@ -24,12 +24,11 @@ r!transcribe
 * **Necessary tool:** None
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!pickpocket`
+* **XP Reward:** 0
+  * **XP Reward Cooldown:** 4h
 
 ```javascript
-r!alm
+r!alm [amount of buckles]
 ```
 
 `r!alm` - _Used to trade coins for piety_
@@ -47,5 +46,5 @@ _The Alm command's piety output scales with the amount of buckles sacrificed. Ho
 
 ## In-depth guide:
 
-When joining the clergy, everyone starts off as a Scribe. Scribes are the lowest rank within the Clergy and as such have the least duties. When in the Clergy, people are given access to `r!transcribe` and `r!alm`, allowing them to work for gold, and for piety, respectively. Pietry is what the Clergy uses in order to both progress through the ranks, but also as a type of "spiritual currency" expended in order to use some of their exclusive commands. Thier work is mostly done within the confines of the Cathedral, where they have a Scriptoria. They command no one, and can offer little religious guidance.
+When joining the clergy, everyone starts off as a Scribe. Scribes are the lowest rank within the Clergy and as such have the least duties. When in the Clergy, people are given access to `r!transcribe` and `r!alm`, allowing them to work for gold, and for piety, respectively. Piety is what the Clergy uses in order to both progress through the ranks, but also as a type of "spiritual currency" expended in order to use some of their exclusive commands. Their work is mostly done within the confines of the Cathedral, where they have a Scriptoria. They command no one, and can offer little religious guidance.
 
