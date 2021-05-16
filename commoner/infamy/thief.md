@@ -6,21 +6,21 @@ description: >-
 
 # Thief 🤏
 
-## Description:
+## _Description_
 
 Thieves are part of Rosewood's criminal underworld and make a living by stealing the buckles and items of others. They are the least dangerous criminals in Rosewood.
 
-## Mechanics:
+## _Command_
 
 ```javascript
-r!pickpocket [user] [item name]
+r!pickpocket [@user] [item name]
 ```
 
-`r!pickpocket` - _Used to pickpocket NPCs in Rosewood_
+`r!pickpocket` - _Used to pickpocket NPCs in Rosewood\(anyone\)_
 
-`r!pickpocket user` - _Used to pickpocket other characters_
+`r!pickpocket @user` - _Used to pickpocket other characters\(anyone\)_
 
-`r!pickpocket user item name` - _Used to steal a specific item from another character's inventory_
+`r!pickpocket @user item name` - _Used to steal a specific item from another character's inventory\(Thieves only\)_
 
 #### Additional requirements:
 
@@ -32,11 +32,46 @@ r!pickpocket [user] [item name]
   * **XP Reward Cooldown:** 24h
   * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!pickpocket`
 
-## Relationship with the Market and other Users:
+## _Pickpocketing an Item \(Only for THIEVES\)_
+
+```javascript
+r!pickpocket @user item
+```
+
+* **Base success** **chance**: `20%`, `30%`, `50%`, `70%`, `80%` \(increase with level\)
+* **Positive modifiers:**
+  * Stamina point ****`+S%`
+  * Hooded robes ****`+10%`
+* **Negative modifiers:**
+  * Gambeson \| Chainmail `-10%`
+  * Brigandine \| Rosewoodian plate `-25%`
+  * @user's Intelligence `-I%`
+
+### _**Success**_
+
+**Reward:** `chosen item`  
+_Thieves have the ability to steal a specific item from another user's inventory by mentioning both them and the item. This variant of the pickpocket command is the hardest._
+
+{% hint style="success" %}
+_If the chosen item has `durability`and there are multiple instances of that item in the @user's inventory, then the exact item will be picked at random._
+{% endhint %}
+
+### _**Failure**_
+
+_**Effect:**_ `Loss of finger`  
+_If the `item`exists but **isn't** the @user's `inventory`or is equipped, the command **fails!**_
+
+_Failing this command will cost the Thief their fingers. Each time a Thief is caught using the `r!pickpocket user` command, they will be arrested by the Watch and taken to the \#dungeons, where they will lose one finger. When the fourth attempt fails, a Thief does not lose a fourth finger, instead they are Outlawed and teleported to the \#forest._
+
+Mechanic where thieves have three strikes before they get outlawed. If a person is caught trying to pickpocket another player then they lose their finger. If they lose a finger three times, then they are given the **Outlaw role** and are outlawed in Rosewood.
+
+{% hint style="info" %}
+_If you make a typo while typing the name of the item, meaning, the item with that exact name **doesn't** exist in MD then the command is **cancelled**, meaning, nothing happens._
+{% endhint %}
+
+## _Relationship with the Market and other Users_
 
 Thieves make a living by lifting buckles off of unsuspecting NPCs and other Characters. The easiest command to use, with the least consequences, is `r!pickpocket` without the mention of any user. It will provide the Thief with 10-50 buckles per use, and has the highest success chance out of all of its variations. Additionally, it has a chance of providing the Thief with the "Stolen Goods" item, which can be sold on the Black Market. The punishment for failing this command is a fine of 100 buckles, applied immediately.
 
-Only mentioning another user means the coin balance of the user mentioned will be targeted, and if successful, will transfer 25% of it to your coin balance, without anyone noticing. Failing this command will cost the Thief their fingers. Each time a Thief is caught using the `r!pickpocket user` command, they will be arrested by the Watch and taken to the \#dungeons, where they will lose one finger. When the fourth attempt fails, a Thief does not lose a fourth finger, instead they are Outlawed and teleported to the \#forest.
-
-Finally, Thieves have the ability to steal a specific item from another user's inventory by mentioning both them and the item. This variant of the pickpocket command is the hardest. If Thieves mention a user and then state an item that is not in their inventory, or is equipped, the command will fail and they will be caught. Failing works the same way as with using just `r!pickpocket user`.
+Only mentioning another user means the coin balance of the user mentioned will be targeted, and if successful, will transfer 25% of it to your coin balance, without anyone noticing. 
 
