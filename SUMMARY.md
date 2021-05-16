@@ -21,7 +21,7 @@
   * [Sleeping](character/health/sleeping.md)
   * [Eating and Drinking](character/health/eating-and-drinking.md)
   * [Healing](character/health/healing.md)
-* [Inventory](character/inventory.md)
+* [Items](character/inventory.md)
 
 ## 💰Commoner Path <a id="commoner"></a>
 

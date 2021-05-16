@@ -50,7 +50,7 @@ r!pickpocket @user item
 ### _**Success**_
 
 **Reward:** `chosen item`  
-_Thieves have the ability to steal a specific item from another user's inventory by mentioning both them and the item. This variant of the pickpocket command is the hardest._
+_Thieves have the ability to steal a specific item from another user's inventory by mentioning them and typing the full name of the item \(with spaces\). This variant of the `pickpocket` command is the **hardest.**_
 
 {% hint style="success" %}
 _If the chosen item has `durability`and there are multiple instances of that item in the @user's inventory, then the exact item will be picked at random._
@@ -59,11 +59,15 @@ _If the chosen item has `durability`and there are multiple instances of that ite
 ### _**Failure**_
 
 _**Effect:**_ `Loss of finger`  
-_If the `item`exists but **isn't** the @user's `inventory`or is equipped, the command **fails!**_
+
 
 _Failing this command will cost the Thief their fingers. Each time a Thief is caught using the `r!pickpocket user` command, they will be arrested by the Watch and taken to the \#dungeons, where they will lose one finger. When the fourth attempt fails, a Thief does not lose a fourth finger, instead they are Outlawed and teleported to the \#forest._
 
 Mechanic where thieves have three strikes before they get outlawed. If a person is caught trying to pickpocket another player then they lose their finger. If they lose a finger three times, then they are given the **Outlaw role** and are outlawed in Rosewood.
+
+{% hint style="danger" %}
+_If the item exists but **isn't** the @user's inventory, the command **fails!**_
+{% endhint %}
 
 {% hint style="info" %}
 _If you make a typo while typing the name of the item, meaning, the item with that exact name **doesn't** exist in MD then the command is **cancelled**, meaning, nothing happens._
