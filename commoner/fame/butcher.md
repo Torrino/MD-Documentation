@@ -42,6 +42,7 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 * **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
+  * **Durability cost:** 5 per use
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
