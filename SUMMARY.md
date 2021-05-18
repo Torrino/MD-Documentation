@@ -23,6 +23,10 @@
   * [Healing](character/health/healing.md)
 * [Items](character/inventory.md)
 
+## 💲Economy
+
+* [Money](economy/money.md)
+
 ## 💰Commoner Path <a id="commoner"></a>
 
 * [Fame Route](commoner/fame/README.md)
