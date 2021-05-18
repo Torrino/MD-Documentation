@@ -12,9 +12,11 @@ Butchers are professionals who know how to skin and butcher animals brought by H
 
 ## Mechanics:
 
+{% code title="\#workshops" %}
 ```javascript
 r!butcher <animal name>
 ```
+{% endcode %}
 
 _`<animal name>`_ _- The name of the animal corpse you're trying to butcher._ 
 
