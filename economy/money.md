@@ -68,3 +68,14 @@ _`<amount>`- Number of buckles you want to withdraw from your bank._
 Typing `all`for the `<amount>`will deposit/withdraw all of your coin to/from the bank.
 {% endhint %}
 
+### _Sending money_
+
+{% code title="Any channel" %}
+```javascript
+r!pay <amount> <@user>
+```
+{% endcode %}
+
+_`<amount>` - Number of buckles \(**in coin**\) you want to give to the mentioned user.  
+`<@user>` - Mentioned discord user \(with @\) to whom you're sending your coin._
+
