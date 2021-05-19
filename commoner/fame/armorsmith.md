@@ -35,6 +35,7 @@ Just like every other smith, the Armorsmith uses the `r!forge` command in order 
 * **Channel:** \#workshops
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
+  * **Durability cost:** 5
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 5 ****
 * **XP Reward:** 3
