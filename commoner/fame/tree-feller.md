@@ -12,9 +12,11 @@ Tree Fellers are given the right to cut down trees within the forest of Rosewood
 
 ## Mechanics:
 
+{% code title="\#forest" %}
 ```javascript
 r!cut
 ```
+{% endcode %}
 
 The `r!cut` command is used by the Tree Feller in order to gather wood in their inventory. 
 
@@ -23,6 +25,7 @@ The `r!cut` command is used by the Tree Feller in order to gather wood in their 
 * **Channel:** \#forest
 * **Necessary tool:** Axe
   * **Location:** Primary slot
+  * **Durability cost:** 5
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
