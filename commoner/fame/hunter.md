@@ -12,9 +12,11 @@ Hunters are given a license that allows them to hunt within the Rosewood forest.
 
 ## Mechanics:
 
+{% code title="\#forest" %}
 ```javascript
 r!hunt <animal name>
 ```
+{% endcode %}
 
 _`<animal name>`_ _- The name of the animal you're trying to hunt. Example:_ _`r!hunt rabbit`_
 

@@ -12,9 +12,11 @@ Farmers make up the foundation of feudal society. They use tools to grow rye and
 
 ## Mechanics:
 
+{% code title="\#farmlands" %}
 ```javascript
 r!harvest
 ```
+{% endcode %}
 
 The `r!harvest`command is used by Farmers in order to gather grain and vegetables in their inventory.
 
@@ -32,15 +34,18 @@ The `r!harvest`command is used by Farmers in order to gather grain and vegetable
 * **Channel:** \#farmlands
 * **Necessary tool:** Hoe
   * **Location:** Primary slot
+  * **Durability cost:** -5
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
   * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!harvest`
 
+{% code title="\#farmlands" %}
 ```javascript
 r!slaughter
 ```
+{% endcode %}
 
 The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, which can then be sold to the Market or to Butcher characters.
 
