@@ -36,8 +36,6 @@ Every single character can `deposit` to and `withdraw` from their bank "account"
 {% code title="Any channel \(or \#bank\)" %}
 ```javascript
 r!money
-r!balance
-r!income
 ```
 {% endcode %}
 
