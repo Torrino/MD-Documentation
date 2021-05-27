@@ -40,6 +40,7 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
 
   *  Spear
     * **Location:** Primary slot
+    * **Durability cost:** 20
 * **Channel:** \#forest 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 5 ****
