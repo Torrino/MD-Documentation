@@ -18,7 +18,7 @@ Roman Catholicism is the main Western branch of Christianity that emerged after 
 * You can only be Baptized once. Usually, the ritual is performed on Sundays, with the person being baptized dressed in white, and with kin there as witnesses or godparents.
 * Belief that Priests can administer the Sacrament of Penance or Confession to those baptized, granting the forgiveness of Christ to those who confess their sins and repent for them.
 * The ritual of Confirmation at the age of reason, which is at seven years old when a person officially joins the Catholic Church.
-* Belief that marriage is eternal and that it can only be annulled by Archbishops and the Pope in extreme circumstances. Additionally, marriages transcend both life and death, so widows and widowers may only remarry with the permission of the Pope.
+* Belief that marriage is eternal and that it can only be annulled by the Pope in extreme circumstances. Those who lose their spouse through divorce may not remarry, but those whose spouse dies may remarry.
 * Belief that vows to the Lord \(like joining a Holy Order\) are to be held in the highest regard and that breaking them may result in eternal damnation.
 * Belief in Extreme Unction and the Last Rites given to those gravely ill or those about to die.
 * Veneration of Saints and Martyrs
