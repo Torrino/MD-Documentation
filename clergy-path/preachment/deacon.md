@@ -42,7 +42,7 @@ r!preach
 * **Necessary tool:** None
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
-* **XP Reward:** 3
+* **XP Reward:** 
   * **XP Reward Cooldown:** 24h
 
 {% hint style="danger" %}

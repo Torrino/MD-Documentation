@@ -8,52 +8,61 @@ description: >-
 
 ## Description:
 
-The Deacon is the first rank of the threefold Christian ministry and is the governor of their respective diaconate, the smallest subdivision of the Catholic authority. Within larger settlements like Rosewood, a single church might have multiple diaconates, all presided by a Deacon, in service to their Parish Priest. However, in smaller settlements, like ones that only have one, a diaconate is synonymous with a parish, and the title is a transitionary period between Scribes and Deacons. Deacons are not considered fully ordained priests and therefore their abilities are limited by law.
+The Priest is the second rank of the threefold Christian ministry and is the governor of their respective parish, the standard subdivision of the Catholic authority. While in some settlements a parish and a diaconate may be synonymous due to their size, in Rosewood, the Capital City, the rule is that one church building presides over its own parish, consisting of multiple diaconates usually. As such, a Priest is the leader of a church, its parish, and the Deacons that are a part of it.
 
 ## Mechanics:
 
 ```javascript
-r!convert [other user]
+r!mass
 ```
 
-`r!convert`  - _Used to Baptize non-Catholics._
-
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** Piety
-* **Minimum Stamina:** None
-* **XP Reward:** None
-* **Buckles Reward:** 50
-
-{% hint style="warning" %}
-_r!convert is a command accessible to anyone with at least 4 Intelligence, meaning anyone can convert people to the faith of their own character. However, only the Clergy can convert people to Catholicism. When converted by the Clergy, a user would get an overt `Baptized` role. When a character from an Abrahamic religion is converted to a non-Abrahamic faith, they gain the covert `Apostate` role. Users who are Baptized or Apostates cannot be converted again._
-{% endhint %}
-
-```javascript
-r!preach
-```
-
-`r!preach` - _Used to earn Piety_
+`r!mass`  - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
 
 #### Additional requirements:
 
 * **Channel:** \#cathedral
 * **Necessary tool:** None
 * **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
+  * **Raw Stamina Cost:** 15
+* **XP Reward:** 
+  * **XP Reward Cooldown:** 7d
 
-{% hint style="danger" %}
-_Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
+{% hint style="success" %}
+_r!mass works just like r!preach, except it is exclusive to ordained members of the clergy \(priests and bishops\), while also being more difficult to perform successfully, and it is exclusive to Sunday Mass._
 {% endhint %}
+
+```javascript
+r!marry [first user] [second user]
+```
+
+`r!marry` - _Used to marry two characters._
+
+#### Additional requirements:
+
+* **Channel:** \#cathedral
+* **Necessary tool:** Piety
+* **Minimum Stamina:** None
+* **Buckles Reward:** 200
 
 {% hint style="warning" %}
-_r!preach has a chance to fail, depending on your luck, Intelligence, and Charisma._
+_A priest cannot marry themselves, and neither can they marry characters of the same gender. Additionally, if both characters are not Catholic, the command will fail._
 {% endhint %}
+
+```javascript
+r!absolve [user]
+```
+
+`r!absolve` - _Used to absolve a character of sin._
+
+#### Additional requirements:
+
+* **Channel:** \#cathedral
+* **Necessary tool:** None
+* **Minimum Stamina:** None
+* **XP Reward:** 
+  * **XP Reward Cooldown:** 24h
 
 ## In-depth guide:
 
-Deacons are the lowest rank within the Preachment route. They inherit every Scribe command and earn a couple of new ones as well. They are basically unordained priests with a few responsibilities including administering the sacraments of Baptism and the Eucharist, while also delivering sermons, excluding Mass, and they oversee burials and funerals.
+Priests guide deacons, while they are instructed by the Archbishop. They have control over a specific church within Rosewood and are the de facto administrators of the building itself. They inherit all the abilities of Deacons and Scribes but also gain access to new ones since they have been ordained. They can administer all the Holy Sacraments, but cannot ordain, unlike Bishops. They will be often called upon to marry characters and to absolve their sins. Only Rosewoodian Priests can become the next Archbishop of Rosewood. Priests are valued for their knowledge of the Bible, and of Latin. More often than not, wealthy members of society will hire Priests to write official documents for them in Latin, as they are the educated few that know the language. Arguably their biggest task is to deliver the Gospel to the people of Rosewood and teach them the Bible.
 
