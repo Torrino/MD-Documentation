@@ -1,2 +1,2 @@
-# Inquisitor General
+# Inquisitor General ⚖️
 

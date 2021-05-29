@@ -1,2 +1,2 @@
-# Medicus
+# Medicus 🩸
 

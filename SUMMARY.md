@@ -56,19 +56,19 @@
 
 ## ⛪Clergy Path
 
-* [Scribe](clergy-path/scribe.md)
+* [Scribe ✍️](clergy-path/scribe.md)
 * [Preachment Route](clergy-path/preachment/README.md)
-  * [Deacon](clergy-path/preachment/deacon.md)
-  * [Priest](clergy-path/preachment/priest.md)
-  * [Archbishop](clergy-path/preachment/archbishop.md)
+  * [Deacon 📿](clergy-path/preachment/deacon.md)
+  * [Priest 🙏](clergy-path/preachment/priest.md)
+  * [Archbishop ⛪](clergy-path/preachment/archbishop.md)
 * [Inquisition Route](clergy-path/inquisition/README.md)
-  * [Inquisitor](clergy-path/inquisition/inquisitor.md)
-  * [High Inquisitor](clergy-path/inquisition/high-inquisitor.md)
-  * [Inquisitor General](clergy-path/inquisition/inquisitor-general.md)
+  * [Inquisitor ✊](clergy-path/inquisition/inquisitor.md)
+  * [High Inquisitor 🔥](clergy-path/inquisition/high-inquisitor.md)
+  * [Inquisitor General ⚖️](clergy-path/inquisition/inquisitor-general.md)
 * [Medicinal Route](clergy-path/medicinal/README.md)
-  * [Helper](clergy-path/medicinal/helper.md)
-  * [Medicus](clergy-path/medicinal/medicus.md)
-  * [Head Medicus](clergy-path/medicinal/head-medicus.md)
+  * [Helper 🛏️](clergy-path/medicinal/helper.md)
+  * [Medicus 🩸](clergy-path/medicinal/medicus.md)
+  * [Head Medicus ⚕️](clergy-path/medicinal/head-medicus.md)
 
 ## 🏹Military Path
 

@@ -1,2 +1,2 @@
-# Inquisitor
+# Inquisitor ✊
 

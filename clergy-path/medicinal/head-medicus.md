@@ -1,2 +1,2 @@
-# Head Medicus
+# Head Medicus ⚕️
 

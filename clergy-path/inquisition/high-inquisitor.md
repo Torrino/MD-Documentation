@@ -1,2 +1,2 @@
-# High Inquisitor
+# High Inquisitor 🔥
 

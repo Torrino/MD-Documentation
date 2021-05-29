@@ -4,7 +4,7 @@ description: >-
   preach commands.
 ---
 
-# Priest
+# Priest 🙏
 
 ## Description:
 

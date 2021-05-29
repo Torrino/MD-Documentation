@@ -4,7 +4,7 @@ description: >-
   preach commands.
 ---
 
-# Deacon
+# Deacon 📿
 
 ## Description:
 

@@ -4,7 +4,7 @@ description: >-
   and alm commands.
 ---
 
-# Scribe
+# Scribe ✍️
 
 ## Description:
 
