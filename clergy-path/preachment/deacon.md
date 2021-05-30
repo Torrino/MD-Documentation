@@ -16,7 +16,7 @@ The Deacon is the first rank of the threefold Christian ministry and is the gove
 r!convert [other user]
 ```
 
-`r!convert`  - _Used to Baptize non-Catholics._
+`r!convert` - _Used to Baptize non-Catholics._
 
 #### Additional requirements:
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  A page detailing the Priest role within Medieval Discord and their convert and
-  preach commands.
+  A page detailing the Priest role within Medieval Discord and their mass,
+  marry, and absolve commands.
 ---
 
 # Priest 🙏
@@ -16,7 +16,7 @@ The Priest is the second rank of the threefold Christian ministry and is the gov
 r!mass
 ```
 
-`r!mass`  - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
+`r!mass` - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
 
 #### Additional requirements:
 
@@ -45,7 +45,11 @@ r!marry [first user] [second user]
 * **Buckles Reward:** 200
 
 {% hint style="warning" %}
-_A priest cannot marry themselves, and neither can they marry characters of the same gender. Additionally, if both characters are not Catholic, the command will fail._
+_A priest cannot marry themselves, and neither can they marry characters of the same gender. Additionally, if both characters are not Catholic, the command will fail. The man must have a wedding ring in his inventory for the command to work._
+{% endhint %}
+
+{% hint style="info" %}
+_If a character's spouse dies, the widow/widower inherits their entire bank balance._
 {% endhint %}
 
 ```javascript
