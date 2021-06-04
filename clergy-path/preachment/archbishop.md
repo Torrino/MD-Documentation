@@ -16,9 +16,11 @@ _The Archbishop is the only role in the clergy that is handpicked and cannot be 
 
 ## Mechanics:
 
+{% code title="\#cathedral" %}
 ```javascript
 r!excommunicate
 ```
+{% endcode %}
 
 `r!excommunicate` - _Used to remove someone from communion, meaning they are effectively strangers to the Catholic Church, and cannot participate in Catholic society. Also grants a negative Charisma modifier._
 
@@ -36,9 +38,11 @@ _To remove someone's excommunicated role, an Archbishop should just use the comm
 _If a clergy member is excommunicated, they lose their clergy role as well and receive the Monk role._
 {% endhint %}
 
+{% code title="\#cathedral" %}
 ```javascript
 r!bless
 ```
+{% endcode %}
 
 `r!bless` - _Used to transfer an Archbishop's personal piety onto another clergy member._
 
