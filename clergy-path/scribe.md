@@ -24,8 +24,6 @@ r!transcribe
 * **Necessary tool:** None
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 0
-  * **XP Reward Cooldown:** 4h
 
 ```javascript
 r!alm [amount of buckles]
