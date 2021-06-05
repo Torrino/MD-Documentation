@@ -52,3 +52,5 @@ When joining the clergy, everyone starts off as a Scribe. Scribes are the lowest
 
 Explain piety here and how to progress through the clergy
 
+Explain ratio impact on price of joining each route LIGMA
+
