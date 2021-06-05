@@ -26,6 +26,7 @@
 ## 💲Economy
 
 * [Money](economy/money.md)
+* [Income](economy/income.md)
 
 ## 💰Commoner Path <a id="commoner"></a>
 
