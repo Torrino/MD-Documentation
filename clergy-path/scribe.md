@@ -12,13 +12,15 @@ When someone joins the Clergy, they will start out as a Scribe. Scribes will spe
 
 ## Mechanics:
 
+{% code title="\#cathedral" %}
 ```javascript
 r!transcribe
 ```
+{% endcode %}
 
-`r!transcribe` - _Used to transcribe/translate texts for coin_
+_Used to transcribe/translate texts to or from latin for coin. Using this commands earns you slightly less coin than the basic `work` command due to the `transcribe` command not having an immediate cooldown._
 
-#### Additional requirements:
+**Income:** `2-4 coin`
 
 * **Channel:** \#cathedral
 * **Necessary tool:** None
