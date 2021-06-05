@@ -22,8 +22,8 @@ r!transcribe
 
 * **Channel:** \#cathedral
 * **Necessary tool:** None
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
+* **Minimum Stamina:** 40%
+  * **Raw Stamina Cost:** 10 ****
 
 ```javascript
 r!alm [amount of buckles]
