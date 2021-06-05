@@ -12,9 +12,11 @@ A Miner is someone who supplies Rosewood with valuable materials like stone, iro
 
 ## Mechanics:
 
+{% code title="\#mines" %}
 ```javascript
 r!mine
 ```
+{% endcode %}
 
 The `r!mine` command is used by the Miner in order to obtain stone and ore from the Rosewood Mines. 
 
