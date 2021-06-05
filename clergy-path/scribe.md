@@ -30,7 +30,7 @@ r!alm [amount of buckles]
 ```
 {% endcode %}
 
-_Used to trade coins for piety_
+_Used to trade coins for piety by giving your money to the less fortunate of Rosewood, basically making you seem more pious and charitable._
 
 **Piety gain:** `[amount of buckles] / 5`  
 **Piety bonus:** `10% for every 4th of your character's total wealth`
