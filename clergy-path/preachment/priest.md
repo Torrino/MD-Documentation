@@ -8,7 +8,7 @@ description: >-
 
 ## Description:
 
-The Priest is the second rank of the threefold Christian ministry and is the governor of their respective parish, the standard subdivision of the Catholic authority. While in some settlements a parish and a diaconate may be synonymous due to their size, in Rosewood, the Capital City, the rule is that one church building presides over its own parish, consisting of multiple diaconates usually. As such, a Priest is the leader of a church, its parish, and the Deacons that are a part of it.
+The Priest is the second rank of the threefold Christian ministry and is the governor of their respective parish, the standard subdivision of the Catholic authority. While in some settlements a parish and a diaconate may be synonymous due to their size, in Rosewood, the Capital City, the rule is that one church building presides over its own parish, consisting of multiple diaconates usually. As such, a Priest is the leader of a church, its parish, and the Deacons that are a part of it. When you reach the Priest rank, your character will gain the Father/Mother title.
 
 ## Mechanics:
 
