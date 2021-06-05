@@ -36,8 +36,13 @@ _Used to trade coins for piety_
 **Piety bonus:** `10% for every 4th of your character's total wealth`
 
 {% hint style="info" %}
-_The Alm command's piety output scales with the amount of buckles sacrificed. However, this also scales with your overal wealth. Meaning a Scribe donating 100 buckles, while he only has 150 will have a hier conversion ratio than an Archbishop who donates 100, while he has 10k buckles._
+_The Alm command's piety output scales with the amount of buckles sacrificed. However, this also scales with your overall wealth. For every 4th of your wealth given, you receive an additional 10% piety._
 {% endhint %}
+
+* 25-49% of your wealth gives you a 10% increase on piety
+* 50-74% of your wealth gives you a 20% increase on piety
+* 75-99% - 30% piety bonus
+* 100% - 40% piety bonus
 
 ## In-depth guide:
 
