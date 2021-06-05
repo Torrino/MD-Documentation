@@ -12,9 +12,11 @@ The Deacon is the first rank of the threefold Christian ministry and is the gove
 
 ## Mechanics:
 
+{% code title="\#cathedral" %}
 ```javascript
 r!convert [other user]
 ```
+{% endcode %}
 
 `r!convert` - _Used to Baptize non-Catholics._
 
@@ -30,9 +32,11 @@ r!convert [other user]
 _r!convert is a command accessible to anyone with at least 4 Intelligence, meaning anyone can convert people to the faith of their own character. However, only the Clergy can convert people to Catholicism. When converted by the Clergy, a user would get an overt `Baptized` role. When a character from an Abrahamic religion is converted to a non-Abrahamic faith, they gain the covert `Apostate` role. Users who are Baptized or Apostates cannot be converted again._
 {% endhint %}
 
+{% code title="\#cathedral" %}
 ```javascript
 r!preach
 ```
+{% endcode %}
 
 `r!preach` - _Used to earn Piety_
 
