@@ -6,11 +6,11 @@ description: >-
 
 # Scribe ✍️
 
-## Description:
+## Description
 
 When someone joins the Clergy, they will start out as a Scribe. Scribes will spend their day transcribing and translating certain texts for buckles. Additionally, they are ordered around by the higher ranks in order to accomplish menial tasks.
 
-## Mechanics:
+## Mechanics
 
 {% code title="\#cathedral" %}
 ```javascript
