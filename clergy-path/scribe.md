@@ -24,16 +24,14 @@ _Used to transcribe/translate texts to or from latin for coin. Using this comman
 * **Minimum stamina:** `40%`
 * **Stamina cost:** `10`
 
+{% code title="\#cathedral" %}
 ```javascript
 r!alm [amount of buckles]
 ```
+{% endcode %}
 
 `r!alm` - _Used to trade coins for piety_
 
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** Buckles
 * **Minimum Stamina:** None
 * **XP Reward:** Scales with the amount of Buckles invested
 
