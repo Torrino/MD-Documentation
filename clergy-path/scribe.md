@@ -20,12 +20,9 @@ r!transcribe
 
 _Used to transcribe/translate texts to or from latin for coin. Using this commands earns you slightly less coin than the basic `work` command due to the `transcribe` command not having an immediate cooldown._
 
-**Income:** `2-4 coin`
-
-* **Channel:** \#cathedral
-* **Necessary tool:** None
-* **Minimum Stamina:** 40%
-  * **Raw Stamina Cost:** 10 ****
+* **Income:** `2-4 coin`
+* **Minimum stamina:** `40%`
+* **Stamina cost:** `10`
 
 ```javascript
 r!alm [amount of buckles]
