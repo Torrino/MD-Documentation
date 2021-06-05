@@ -20,7 +20,13 @@ _If there is a lack of players in the Preachment route, the base cost will go do
 The opposite applies if there are too many players in the route, meaning, the price increases._
 {% endhint %}
 
-* [Deacon](deacon.md)
-* [Priest](priest.md)
-* [Archbishop](archbishop.md)
+## Preachment Rote Ranks
+
+{% page-ref page="deacon.md" %}
+
+{% page-ref page="priest.md" %}
+
+{% page-ref page="archbishop.md" %}
+
+
 
