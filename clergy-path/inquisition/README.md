@@ -16,6 +16,11 @@ To join the inquisition route, you must talk to the **Pastor** NPC in the \#cath
 
 **Base cost:** `50 piety`
 
+{% hint style="info" %}
+_If there is a lack of players in the Inquisition route, the base cost will go down automatically.  
+The opposite applies if there are too many players in the route, meaning, the price increases._
+{% endhint %}
+
 _Any scribe may choose to join the Inquisition, and they have three roles they can progress through._
 
 {% page-ref page="inquisitor.md" %}
