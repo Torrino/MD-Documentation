@@ -20,7 +20,7 @@ _If there is a lack of players in the Preachment route, the base cost will go do
 The opposite applies if there are too many players in the route, meaning, the price increases._
 {% endhint %}
 
-## Preachment Rote Ranks
+## Preachment Route Ranks
 
 {% page-ref page="deacon.md" %}
 
