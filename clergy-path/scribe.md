@@ -30,10 +30,10 @@ r!alm [amount of buckles]
 ```
 {% endcode %}
 
-`r!alm` - _Used to trade coins for piety_
+_Used to trade coins for piety_
 
-* **Minimum Stamina:** None
-* **XP Reward:** Scales with the amount of Buckles invested
+**Piety gain:** `[amount of buckles] / 5`  
+**Piety bonus:** `10% for every 4th of your character's total wealth`
 
 {% hint style="info" %}
 _The Alm command's piety output scales with the amount of buckles sacrificed. However, this also scales with your overal wealth. Meaning a Scribe donating 100 buckles, while he only has 150 will have a hier conversion ratio than an Archbishop who donates 100, while he has 10k buckles._
