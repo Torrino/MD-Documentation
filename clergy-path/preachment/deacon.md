@@ -32,7 +32,7 @@ _The convert command is accessible to **anyone** with at least **4 Intelligence*
 * _When a character from an **Abrahamic** religion is converted to a **non-Abrahamic** faith, they gain the covert `Apostate` role._ 
 
 {% hint style="danger" %}
-_Users who are **Baptized** or **Apostates** cannot be converted again._
+_Users who are `Baptized` or `Apostates` cannot be converted again._
 {% endhint %}
 
 {% code title="\#cathedral" %}
