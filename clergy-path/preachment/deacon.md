@@ -14,7 +14,7 @@ The Deacon is the first rank of the threefold Christian ministry and is the gove
 
 {% code title="\#cathedral" %}
 ```javascript
-r!convert [other user]
+r!convert <@user>
 ```
 {% endcode %}
 
