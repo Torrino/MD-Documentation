@@ -43,14 +43,10 @@ r!preach
 
 _Used to earn Piety_
 
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** None
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
-* **XP Reward:** 
-  * **XP Reward Cooldown:** 24h
+* Reward: `?piety`
+  * **Reward Cooldown:** `24h`
 
 {% hint style="danger" %}
 _Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
