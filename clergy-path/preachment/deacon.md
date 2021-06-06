@@ -25,7 +25,14 @@ _Used by Deacons to convert characters to Catholicism._
 * **Cooldown:** `2h`
 
 {% hint style="success" %}
-_The convert command is accessible to anyone with at least 4 Intelligence, meaning anyone can convert people to the faith of their own character. However, only the Clergy can convert people to Catholicism. When converted by the Clergy, a user would get an overt `Baptized` role. When a character from an Abrahamic religion is converted to a non-Abrahamic faith, they gain the covert `Apostate` role. Users who are Baptized or Apostates cannot be converted again._
+_The convert command is accessible to **anyone** with at least **4 Intelligence**, meaning anyone can convert people to the **faith of their own character.** However, only the **Clergy** can convert people to **Catholicism**._
+{% endhint %}
+
+* _When converted by the Clergy, a user would get an overt `Baptized` role._ 
+* _When a character from an **Abrahamic** religion is converted to a **non-Abrahamic** faith, they gain the covert `Apostate` role._ 
+
+{% hint style="danger" %}
+_Users who are Baptized or Apostates cannot be converted again._
 {% endhint %}
 
 {% code title="\#cathedral" %}
