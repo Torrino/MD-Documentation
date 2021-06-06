@@ -69,7 +69,12 @@ _Used to earn Piety
   * &lt;500: -1
   * 500-999: 0
   * &gt;1000: +1
-* Age: 
+* Age: +/-
+  * Teenage\(16-19\): -4
+  * Young\(20-30\): -1
+  * Middle age\(31-45\): +1
+  * Old\(46-50\): +3
+  * Elder\(51-60\): +5
 
 {% hint style="danger" %}
 _Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
