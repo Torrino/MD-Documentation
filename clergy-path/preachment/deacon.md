@@ -53,8 +53,9 @@ _Used to earn Piety
 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
-* Reward: `?piety`
+* **Reward:** `?piety`
   * **Reward Cooldown:** 24h
+  * **Command Cooldown:** 1h
 
 {% hint style="danger" %}
 _Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
