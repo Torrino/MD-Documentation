@@ -49,13 +49,27 @@ r!preach <sermon>
 {% endcode %}
 
 _Used to earn Piety  
-`<sermon>` - The words that you character preaches._
+`<sermon>` - The words that you character preaches. The length of the sermon bonus/penalty on your preach success chance._
 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
 * **Base Reward:** `40-60 piety`
+
   * **Reward Cooldown:** 24h
   * **Command Cooldown:** 1h
+
+  \*\*\*\*
+
+**Success chance**
+
+* \(+\)Intelligence: 1/2int
+* \(+\)Charisma: char
+* \(+\)Random dice: 0-5
+* Sermon character count:
+  * &lt;500: -1
+  * 500-999: 0
+  * &gt;1000: +1
+* Age: 
 
 {% hint style="danger" %}
 _Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
