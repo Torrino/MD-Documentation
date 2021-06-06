@@ -62,19 +62,19 @@ _Used to earn Piety
 
 **Success chance**
 
-* \(+\)Intelligence: 1/2int
-* \(+\)Charisma: char
-* \(+\)Random dice: 0-5
-* Sermon character count:
-  * &lt;500: -1
-  * 500-999: 0
-  * &gt;1000: +1
-* Age: +/-
-  * Teenage\(16-19\): -4
-  * Young\(20-30\): -1
-  * Middle age\(31-45\): +1
-  * Old\(46-50\): +3
-  * Elder\(51-60\): +5
+* \(+\)**Intelligence:** `1/2int`
+* \(+\)**Charisma:** `char`
+* \(+\)**Random dice:** `0-5`
+* **Sermon character count:**
+  * _&lt;500:_ `-1`
+  * _500-999:_ `0`
+  * _&gt;1000:_ `+1`
+* **Age:**
+  * _Teenage\(16-19\):_ `-4`
+  * _Young\(20-30\):_ `-1`
+  * _Middle age\(31-45\):_ `+1`
+  * _Old\(46-50\):_ `+3`
+  * _Elder\(51-60\):_ `+5`
 
 {% hint style="danger" %}
 _Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
