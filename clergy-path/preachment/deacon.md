@@ -33,7 +33,7 @@ r!preach
 ```
 {% endcode %}
 
-`r!preach` - _Used to earn Piety_
+_Used to earn Piety_
 
 #### Additional requirements:
 
