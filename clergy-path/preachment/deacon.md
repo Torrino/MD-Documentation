@@ -38,7 +38,7 @@ _Users who are `Baptized` or `Apostates` cannot be converted again._
 
 {% code title="\#cathedral" %}
 ```javascript
-r!preach
+r!preach <sermon>
 ```
 {% endcode %}
 
