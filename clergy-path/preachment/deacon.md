@@ -18,7 +18,7 @@ r!convert [other user]
 ```
 {% endcode %}
 
-`r!convert` - _Used to Baptize non-Catholics._
+`r!convert` - _Used by Deacons to convert characters to Catholicism._
 
 * **Cost:** `20 piety`
 * **Reward**: `10 coin`
