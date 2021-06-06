@@ -53,7 +53,7 @@ _Used to earn Piety
 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
-* **Reward:** `?piety`
+* **Base Reward:** `40-60 piety`
   * **Reward Cooldown:** 24h
   * **Command Cooldown:** 1h
 
