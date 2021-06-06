@@ -20,8 +20,8 @@ r!convert [other user]
 
 `r!convert` - _Used to Baptize non-Catholics._
 
-* Cost: 20 piety
-* Reward: 10 coin
+* **Cost:** `20 piety`
+* **Reward**: `10 coin`
 
 {% hint style="warning" %}
 _r!convert is a command accessible to anyone with at least 4 Intelligence, meaning anyone can convert people to the faith of their own character. However, only the Clergy can convert people to Catholicism. When converted by the Clergy, a user would get an overt `Baptized` role. When a character from an Abrahamic religion is converted to a non-Abrahamic faith, they gain the covert `Apostate` role. Users who are Baptized or Apostates cannot be converted again._
