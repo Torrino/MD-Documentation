@@ -14,20 +14,39 @@ When you reach the Priest rank, your character will gain the Father/Mother title
 
 ## Mechanics:
 
+{% code title="\#cathedral" %}
 ```javascript
-r!mass
+r!mass <sermon>
 ```
+{% endcode %}
 
-`r!mass` - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
+_Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards.  
+  
+`<sermon>` - The words that you character preaches. The length of the sermon bonus/penalty on your preach success chance._
 
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** None
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 15
-* **XP Reward:** 
-  * **XP Reward Cooldown:** 7d
+* **Base Reward:** 90-110 piety
+* **Cooldown**: 24h
+  * _Used **ONLY** on **Sundays**_
+
+    \*\*\*\*
+
+**Success chance**
+
+* \(+\)**Intelligence:** `1/2int`
+* \(+\)**Charisma:** `char`
+* \(+\)**Random dice:** `0-5`
+* **Sermon character count:**
+  * _&lt;500:_ `-1`
+  * _500-999:_ `0`
+  * _&gt;1000:_ `+1`
+* **Age:**
+  * _Teenage\(16-19\):_ `-4`
+  * _Young\(20-30\):_ `-1`
+  * _Middle age\(31-45\):_ `+1`
+  * _Old\(46-50\):_ `+3`
+  * _Elder\(51-60\):_ `+5`
 
 {% hint style="success" %}
 _r!mass works just like r!preach, except it is exclusive to ordained members of the clergy \(priests and bishops\), while also being more difficult to perform successfully, and it is exclusive to Sunday Mass._
