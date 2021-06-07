@@ -60,7 +60,7 @@ _Used to earn Piety
 
   \*\*\*\*
 
-**Success chance**
+**Success chance:**
 
 * \(+\)**Intelligence:** `1/2int`
 * \(+\)**Charisma:** `char`
@@ -75,6 +75,13 @@ _Used to earn Piety
   * _Middle age\(31-45\):_ `+1`
   * _Old\(46-50\):_ `+3`
   * _Elder\(51-60\):_ `+5`
+
+**Success Threshold:**
+
+* _**&lt;8** Fail:_ `-10 piety`
+* _**8-9** No change:_ `0 piety`
+* _**10-12** Success:_ `Base Reward`
+* _**13-17** Total Success:_ `Base Reward + 5-10 piety`
 
 ## In-depth guide:
 
