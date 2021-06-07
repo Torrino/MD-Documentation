@@ -64,7 +64,7 @@ _Used to earn Piety
 
 * \(+\)**Intelligence:** `1/2int`
 * \(+\)**Charisma:** `char`
-* \(+\)**Random dice:** `0-5`
+* \(+\)**Random dice:** `0-4`
 * **Sermon character count:**
   * _&lt;500:_ `-1`
   * _500-999:_ `0`
