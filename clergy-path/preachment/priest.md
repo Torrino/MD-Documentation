@@ -66,11 +66,6 @@ r!marry <@first user> <@second user>
 
 _Used to marry two characters._
 
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** Piety
-* **Minimum Stamina:** None
 * **Buckles Reward:** 200
 
 {% hint style="warning" %}
