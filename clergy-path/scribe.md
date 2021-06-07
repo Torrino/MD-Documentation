@@ -56,7 +56,7 @@ Piety is the "spiritual currency" of the clergy path and is used to progress thr
 * Becoming Tipsy/Drunk/Wasted
 * Using the r!work command during a Sunday
 * Murder
-* Theft
+* The r!pickpocket command
 
 When joining a clergy route, Scribes will be given the opportunity to spend 50 piety in order to join any route. However, depending on the ratio of members in the clergy, meaning their distribution among the routes,  the entry fee may vary from 25 to 75 piety. This means that the least populated route will cost 25 piety to enter, while the most populated one will cost 75.
 
