@@ -58,9 +58,11 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 
 ### Marry
 
+{% code title="\#cathedral" %}
 ```javascript
-r!marry [first user] [second user]
+r!marry <@first user> <@second user>
 ```
+{% endcode %}
 
 _Used to marry two characters._
 
