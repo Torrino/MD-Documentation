@@ -26,7 +26,7 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 15
-* **Base Reward:** 90-110 piety
+* **Base Reward:** `90-110 piety`
 * **Cooldown**: 24h
   * _Used **ONLY** on **Sundays**_
 
@@ -34,7 +34,7 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 
 **Success chance**
 
-* \(+\)**Intelligence:** `1/2int`
+* \(+\)**Intelligence:** `int`
 * \(+\)**Charisma:** `char`
 * \(+\)**Random dice:** `0-4`
 * **Sermon character count:**
@@ -47,6 +47,12 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
   * _Middle age\(31-45\):_ `+1`
   * _Old\(46-50\):_ `+3`
   * _Elder\(51-60\):_ `+5`
+
+**Success Threshold:**
+
+* _**&lt;10** Fail:_ `0 piety`
+* _**10-14** No change:_ `Base Reward`
+* _**&gt;14**Success:_ `Base Reward + 10 piety`
 
 {% hint style="success" %}
 _r!mass works just like r!preach, except it is exclusive to ordained members of the clergy \(priests and bishops\), while also being more difficult to perform successfully, and it is exclusive to Sunday Mass._
