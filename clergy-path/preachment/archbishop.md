@@ -16,6 +16,9 @@ _The Archbishop is the only role in the clergy that is handpicked from a pool of
 Certain Archbishop characters will not be canonized since they will not meet the age criteria. If you want your Archbishop character to be recognized as canon within MD's lore, they will need to be at least 35 years old and have European heritage._
 {% endhint %}
 
+* **Weekly Paycheck:** `200 coin`
+* **Rank-up Cost:** `1000 piety`
+
 ## Mechanics:
 
 {% code title="\#cathedral" %}
