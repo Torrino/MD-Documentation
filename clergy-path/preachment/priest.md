@@ -36,11 +36,11 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 
 * \(+\)**Intelligence:** `1/2int`
 * \(+\)**Charisma:** `char`
-* \(+\)**Random dice:** `0-5`
+* \(+\)**Random dice:** `0-4`
 * **Sermon character count:**
-  * _&lt;500:_ `-1`
+  * _&lt;500:_ `-3`
   * _500-999:_ `0`
-  * _&gt;1000:_ `+1`
+  * _&gt;1000:_ `+3`
 * **Age:**
   * _Teenage\(16-19\):_ `-4`
   * _Young\(20-30\):_ `-1`
