@@ -64,14 +64,21 @@ r!marry <@first user> <@second user>
 ```
 {% endcode %}
 
-_Used to marry two characters of the opposite gender and catholic fate. The Man must have a wedding ring in his inventory for the command._
+_Used to marry two characters of the opposite gender and catholic fate. The Man must have a wedding ring in his inventory for the command.  
+`<@first user>` - Mentioned discord user with @ that is being married  
+`<@second user>` - Hmmmm_
 
 * **Piety cost:** `80`
 * **Buckles Reward:** `40`
+* **Command cooldown**: `2h`
 
 _The **marry** command represents an **official marriage**, meaning that characters **can get married** without the command, but their union is **not recognized** before government or Church._
 
+The married characters both receive the **Married** role.
+
+{% hint style="info" %}
 _A priest cannot marry themselves!_
+{% endhint %}
 
 {% hint style="warning" %}
 _If a character's spouse dies, the widow/widower inherits their entire bank balance._
