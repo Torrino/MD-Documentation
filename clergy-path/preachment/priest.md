@@ -64,7 +64,7 @@ r!marry <@first user> <@second user>
 ```
 {% endcode %}
 
-_Used to marry two characters of the opposite gender and catholic fate. The Man must have a wedding ring in his inventory for the command.  
+_Used to marry two characters of the opposite gender and Catholic faith. The Man must have a wedding ring in his inventory for the command.  
 `<@first user>` - Mentioned discord user with @ that is being married  
 `<@second user>` - Hmmmm_
 
@@ -97,6 +97,8 @@ _Used to absolve a character of sin.
 
 * **Reward:** `10 piety`
   * _**Reward cooldown:**_ ****`1 piety | 24hr cooldown`
+
+_The **absolve** command is purely for RP purposes, and it does not guarantee forgiveness in the eyes of the Law. It is to be done at the end of a session of Catholic **confession**._
 
 ## In-depth guide:
 
