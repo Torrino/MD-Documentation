@@ -76,14 +76,6 @@ _Used to earn Piety
   * _Old\(46-50\):_ `+3`
   * _Elder\(51-60\):_ `+5`
 
-{% hint style="danger" %}
-_Every use of r!preach must be accompanied by an original sermon along with it IC, preferably before the command is used._
-{% endhint %}
-
-{% hint style="warning" %}
-_r!preach has a chance to fail, depending on your luck, Intelligence, and Charisma._
-{% endhint %}
-
 ## In-depth guide:
 
 Deacons are the lowest rank within the Preachment route. They inherit every Scribe command and earn a couple of new ones as well. They are basically unordained priests with a few responsibilities including administering the sacraments of Baptism and the Eucharist, while also delivering sermons, excluding Mass, and they oversee burials and funerals.
