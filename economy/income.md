@@ -4,7 +4,7 @@ description: The most basic ways for your character to earn an income in MD.
 
 # Income
 
-{% code title="\#" %}
+{% code title="\#shops \| \#workshops" %}
 ```javascript
 r!work
 ```
