@@ -100,7 +100,7 @@ _Used to absolve a character of sin.
 
 _The **absolve** command is purely for RP purposes, and it does not guarantee forgiveness in the eyes of the Law. It is to be done at the end of a session of Catholic **confession**._
 
-## In-depth guide:
+## In-depth guide
 
 Priests guide deacons, while they are instructed by the Archbishop. They have control over a specific church within Rosewood and are the de facto administrators of the building itself. They inherit all the abilities of Deacons and Scribes but also gain access to new ones since they have been ordained. They can administer all the Holy Sacraments, but cannot ordain, unlike Bishops. They will be often called upon to marry characters and to absolve their sins. Only Rosewoodian Priests can become the next Archbishop of Rosewood. Priests are valued for their knowledge of the Bible, and of Latin. More often than not, wealthy members of society will hire Priests to write official documents for them in Latin, as they are the educated few that know the language. Arguably their biggest task is to deliver the Gospel to the people of Rosewood and teach them the Bible.
 
