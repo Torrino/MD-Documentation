@@ -14,6 +14,8 @@ When you reach the Priest rank, your character will gain the Father/Mother title
 
 **Weekly Paycheck:** `60 coin`
 
+**Rank-up Cost:** `500 piety`
+
 ## Mechanics
 
 ### Mass
