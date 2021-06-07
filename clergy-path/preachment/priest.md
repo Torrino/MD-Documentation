@@ -62,7 +62,7 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 r!marry [first user] [second user]
 ```
 
-`r!marry` - _Used to marry two characters._
+_Used to marry two characters._
 
 #### Additional requirements:
 
