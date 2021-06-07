@@ -77,7 +77,7 @@ _The **marry** command represents an **official marriage**, meaning that charact
 The married characters both receive the **Married** role.
 
 {% hint style="info" %}
-_A priest cannot marry themselves!_
+_Clergy members can **not** get married._
 {% endhint %}
 
 {% hint style="warning" %}
