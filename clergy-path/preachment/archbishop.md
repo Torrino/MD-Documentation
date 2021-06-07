@@ -40,7 +40,7 @@ _To remove someone's excommunicated role, an Archbishop should just use the comm
 {% endhint %}
 
 {% hint style="danger" %}
-_If a clergy member is excommunicated, they lose their clergy role as well and receive the Monk role._
+_If a clergy member is excommunicated, they lose their clergy role. Additionally, those with the Excommunicated role cannot be the target of any clergy command._
 {% endhint %}
 
 {% code title="\#cathedral" %}
