@@ -12,6 +12,8 @@ The Priest is the second rank of the threefold Christian ministry and is the gov
 
 When you reach the Priest rank, your character will gain the Father/Mother title.
 
+**Weekly Paycheck:** `60 coin`
+
 ## Mechanics
 
 ### Mass
