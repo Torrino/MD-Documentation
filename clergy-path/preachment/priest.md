@@ -86,19 +86,17 @@ _If a character's spouse dies, the widow/widower inherits their entire bank bala
 
 ### Absolve
 
+{% code title="\#cathedral" %}
 ```javascript
-r!absolve [user]
+r!absolve <@user>
 ```
+{% endcode %}
 
-`r!absolve` - _Used to absolve a character of sin._
+_Used to absolve a character of sin.  
+`<@user>` - Mentioned discord user whose sins are being forgiven._
 
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** None
-* **Minimum Stamina:** None
-* **XP Reward:** 
-  * **XP Reward Cooldown:** 24h
+* **Reward:** `10 piety`
+  * _**Reward cooldown:**_ ****`1 piety | 24hr cooldown`
 
 ## In-depth guide:
 
