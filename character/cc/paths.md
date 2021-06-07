@@ -22,7 +22,7 @@ The Clergy are members of the Catholic Church in Rosewood and are there to lead 
 * [Inquisition Route](../../clergy-path/inquisition/)
 * [Medicinal Route](../../clergy-path/medicinal/)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _Characters who are married cannot join the Clergy._
 {% endhint %}
 
