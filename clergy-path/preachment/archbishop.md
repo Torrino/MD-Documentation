@@ -23,7 +23,7 @@ Certain Archbishop characters will not be canonized since they will not meet the
 
 {% code title="\#cathedral" %}
 ```javascript
-r!excommunicate
+r!excommunicate <@user>
 ```
 {% endcode %}
 
