@@ -77,6 +77,10 @@ _Used to marry two characters._
 _A priest cannot marry themselves, and neither can they marry characters of the same gender. Additionally, if both characters are not Catholic, the command will fail. The man must have a wedding ring in his inventory for the command to work._
 {% endhint %}
 
+{% hint style="success" %}
+_The r!marry command represents an **official marriage**, meaning that characters can get married without the command, but their union is not actual before government or Church._
+{% endhint %}
+
 {% hint style="info" %}
 _If a character's spouse dies, the widow/widower inherits their entire bank balance._
 {% endhint %}
