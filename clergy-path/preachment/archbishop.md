@@ -11,7 +11,7 @@ description: >-
 The Bishop is the third rank of the threefold Christian ministry and is the governor of a diocese, the largest subdivision of the Catholic authority. Note that the prefix "arch" simply means "chief" and denotes a more powerful Bishop, and in the Archbishop's case, they rule over an archdiocese. A diocese will contain multiple churches, and multiple parishes, dozens even. Concerting the Archbishop of Rosewood, they are the principal authority over the Catholic Church in the Capital, and in France, second only to the Pope. Rosewood City and its surroundings are part of the Archdiocese of Rosewood, under the control of the Archbishop. All Bishops within France owe their allegiance to the Archbishop, who is also the administrative figure of the Cathedral of St. Leena.
 
 {% hint style="danger" %}
-_The Archbishop is the only role in the clergy that is handpicked from a pool of characters consisting of the top three priests in the clergy. Additionally, it is exclusive to Certified Members.  
+_The Archbishop is the only role in the clergy that is handpicked from a pool of characters consisting of the top three priests \(meaning those with the heighest piety\) in the clergy. Additionally, it is exclusive to Certified Members.  
   
 Certain Archbishop characters will not be canonized since they will not meet the age criteria. If you want your Archbishop character to be recognized as canon within MD's lore, they will need to be at least 35 years old and have European heritage._
 {% endhint %}
