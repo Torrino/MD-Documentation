@@ -26,10 +26,10 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
   
 `<sermon>` - The words that you character preaches. The length of the sermon bonus/penalty on your preach success chance._
 
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 15
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `15`
 * **Base Reward:** `90-110 piety`
-* **Cooldown**: 24h
+* **Cooldown**: `24h`
   * _Used **ONLY** on **Sundays**_
 
     \*\*\*\*
