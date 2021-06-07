@@ -78,7 +78,7 @@ _A priest cannot marry themselves, and neither can they marry characters of the 
 {% endhint %}
 
 {% hint style="success" %}
-_The r!marry command represents an **official marriage**, meaning that characters can get married without the command, but their union is not actual before government or Church._
+_The r!marry command represents an **official marriage**, meaning that characters can get married without the command, but their union is not recognized before government or Church._
 {% endhint %}
 
 {% hint style="info" %}
