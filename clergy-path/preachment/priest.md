@@ -52,7 +52,7 @@ _Used to hold a sermon, however, specifically during Sundays. Notably more diffi
 
 * _**&lt;10** Fail:_ `0 piety`
 * _**10-14** No change:_ `Base Reward`
-* _**&gt;14**Success:_ `Base Reward + 10 piety`
+* _**&gt;14** Success:_ `Base Reward + 10 piety`
 
 {% hint style="success" %}
 _r!mass works just like r!preach, except it is exclusive to ordained members of the clergy \(priests and bishops\), while also being more difficult to perform successfully, and it is exclusive to Sunday Mass._
