@@ -50,7 +50,13 @@ When joining the clergy, everyone starts off as a Scribe. Scribes are the lowest
 
 ## Piety:
 
-Explain piety here and how to progress through the clergy
+Piety is the "spiritual currency" of the clergy path and is used to progress through the ranks, as well as to use certain commands. Piety can be earned in many different ways \(for example r!alm, r!preach, r!mass, etc.\) Once you want your character to rank up, and you have enough piety to do so, you should go and speak to the Pastor NPC, where you will be able to spend your piety on a rank-up. It is important to maintain a positive piety balance since your character will lose 10 piety every week. In the event that your piety falls below zero, for any reason, your character will lose their clergy role and will be given the Monk role instead, meaning they can't rejoin the clergy ever again. Additionally, there are certain things that will incur a piety penalty:
 
-Explain ratio impact on price of joining each route LIGMA
+* The r!pregnant command
+* Becoming Tipsy/Drunk/Wasted
+* Using the r!work command during a Sunday
+* Murder
+* Theft
+
+When joining a clergy route, Scribes will be given the opportunity to spend 50 piety in order to join any route. However, depending on the ratio of members in the clergy, meaning their distribution among the routes,  the entry fee may vary from 25 to 75 piety. This means that the least populated route will cost 25 piety to enter, while the most populated one will cost 75.
 
