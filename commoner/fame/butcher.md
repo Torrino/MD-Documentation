@@ -62,6 +62,7 @@ The `r!tan`command is used by the Butcher in order to successfully tan ordinary 
 * **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
+  * **Durability cost:** 5 per use
 * **Minimum Stamina:** 25%
   * **Raw Stamina Cost:** 5
 * **XP Reward:** 1 per Leather tanned
