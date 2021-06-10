@@ -1,3 +1,7 @@
+---
+description: A person capable of playing music and hired by the Inn Keeper.
+---
+
 # Bard 🎶
 
 Your characters plays a song and receives some buckles for it. 
