@@ -12,3 +12,7 @@ You don't level up as a Bard but for every 10xp, your income for each playing in
 
 This upgrade is permanent.
 
+* **Channels:** \#shops, \#main\_square_,_ \#great\_hall, \#bar
+* **Minimum Stamina:** `10%`
+  * **Stamina cost:** `5`
+
