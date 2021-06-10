@@ -29,15 +29,10 @@ r!excommunicate <@user>
 
 `r!excommunicate` - _Used to remove someone from communion, meaning they are effectively strangers to the Catholic Church, and cannot participate in Catholic society. Also grants a negative Charisma modifier._
 
-#### Additional requirements:
+* **Piety cost:** `200`
+* **Cooldown:** `1h`
 
-* **Channel:** \#cathedral
-* **Necessary tool:** Piety
-* **Minimum Stamina:** None
-
-{% hint style="success" %}
-_To remove someone's excommunicated role, an Archbishop should just use the command on the same character again._
-{% endhint %}
+_To **remove** someone's **Excommunicated** role, an Archbishop can use the command on the same character again._
 
 {% hint style="danger" %}
 _If a clergy member is excommunicated, they lose their clergy role. Additionally, those with the Excommunicated role cannot be the target of any clergy command._
@@ -45,7 +40,7 @@ _If a clergy member is excommunicated, they lose their clergy role. Additionally
 
 {% code title="\#cathedral" %}
 ```javascript
-r!bless
+r!bless <@user>
 ```
 {% endcode %}
 
@@ -53,9 +48,9 @@ r!bless
 
 #### Additional requirements:
 
-* **Channel:** \#cathedral
-* **Necessary tool:** Piety
-* **Minimum Stamina:** None
+* **Piety cost:** `Any`
+  * **Transfer rate:** `1/3 of piety spent`
+* **Cooldown:** `1h`
 
 {% hint style="info" %}
 _Giving certain clergy members your excess piety may inspire loyalty!_
