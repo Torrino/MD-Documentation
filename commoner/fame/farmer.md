@@ -10,7 +10,9 @@ description: >-
 
 Farmers make up the foundation of feudal society. They use tools to grow rye and wheat, which they can sell as grain once harvested, various vegetables, and they also practice animal husbandry growing various farm animals which they slaughter seasonally for their meat and materials. They are the peasantry.
 
-## Mechanics:
+## Mechanics
+
+### Harvest
 
 {% code title="\#farmlands" %}
 ```javascript
@@ -34,19 +36,22 @@ The `r!harvest`command is used by Farmers in order to gather grain and vegetable
 * **Channel:** \#farmlands
 * **Necessary tool:** Hoe
   * **Location:** Primary slot
-  * **Durability cost:** -5
+  * **Durability cost:** 5
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!harvest`
+  * **XP Reward While on Cooldown:** 30% chance at 1XP per `harvest`
+
+### Slaughter
 
 {% code title="\#farmlands" %}
 ```javascript
-r!slaughter
+r!slaughter <animal name>
 ```
 {% endcode %}
 
+_&lt;animal name&gt; -_   
 The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, which can then be sold to the Market or to Butcher characters.
 
 **Possible Outcomes:**
@@ -61,8 +66,9 @@ The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, 
 * **Channel:** \#farmlands
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
+  * **Durability cost:** 5
 * **Minimum Stamina:** 50%
-  * **Raw Stamina Cost: 1**5
+  * **Raw Stamina Cost:** 15
 * **XP Reward:** 3
   * **XP Reward Cooldown:** 24h
   * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!slaughter`
