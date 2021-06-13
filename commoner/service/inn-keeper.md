@@ -15,3 +15,9 @@ _`<@user>` - The mentioned discord user you want to hire.
 
 _The only way someone can become a Bard or an Inn Hand is by being hired by the Inn keeper._
 
+{% hint style="warning" %}
+There can only be a maximum of **5 Inn Hands** and **5 Bards** at a time.
+{% endhint %}
+
+
+
