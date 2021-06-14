@@ -1,19 +1,19 @@
 ---
 description: >-
-  A page detailing the Inquisitor role within Medieval Discord and their mass,
-  marry, and absolve commands.
+  A page detailing the Inquisitor role within Medieval Discord and their
+  extract-confession command.
 ---
 
 # Inquisitor ✊
 
 ## Description:
 
-The Priest is the second rank of the threefold Christian ministry and is the governor of their respective parish, the standard subdivision of the Catholic authority. While in some settlements a parish and a diaconate may be synonymous due to their size, in Rosewood, the Capital City, the rule is that one church building presides over its own parish, consisting of multiple diaconates usually. As such, a Priest is the leader of a church, its parish, and the Deacons that are a part of it.
+Inquisitors are the soldiers of the French Inquisition. The institution is supported by the Roman Church, while its presence is not appreciated by most within the Kingdom. Inquisitors are chosen from among the local clergy and trained in the art of torture and combat in order to fight against the Pope's enemies and any perversions of the Catholic faith. They wear black robes and are feared by many within the Capital. While their main purpose is the extermination of heresy and apostasy, they also enforce the Church's moral laws upon the City of Rosewood.
 
 ## Mechanics:
 
 ```javascript
-r!mass
+r!extract-confession
 ```
 
 `r!mass` - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
