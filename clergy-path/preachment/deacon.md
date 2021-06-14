@@ -12,7 +12,7 @@ The Deacon is the first rank of the threefold Christian ministry and is the gove
 
 **Weekly Paycheck:** `20 coin`
 
-## Mechanics
+## Mechanics:
 
 ### Convert
 

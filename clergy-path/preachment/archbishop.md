@@ -21,6 +21,8 @@ Certain Archbishop characters will not be canonized since they will not meet the
 
 ## Mechanics:
 
+### Excommunicate
+
 {% code title="\#cathedral" %}
 ```javascript
 r!excommunicate <@user>
@@ -37,6 +39,8 @@ _To **remove** someone's **Excommunicated** role, an Archbishop can use the comm
 {% hint style="danger" %}
 _If a clergy member is excommunicated, they lose their clergy role. Additionally, those with the Excommunicated role cannot be the target of any clergy command._
 {% endhint %}
+
+### Bless
 
 {% code title="\#cathedral" %}
 ```javascript

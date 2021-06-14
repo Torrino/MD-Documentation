@@ -12,61 +12,42 @@ Inquisitors are the soldiers of the French Inquisition. The institution is suppo
 
 ## Mechanics:
 
+### Extract Confession
+
+{% code title="\#any" %}
 ```javascript
-r!extract-confession
+r!extract-confession <@user>
 ```
+{% endcode %}
 
-`r!mass` - _Used to hold a sermon, however, specifically during Sundays. Notably more difficult to perform successfully, but offers greater rewards._
+_Used to force someone into confessing their heresy. If successful, it will give the target the Confessor role. If unsuccessful, will inflict damage to the target equal to half of their max health._
 
-#### Additional requirements:
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
+* **Base Reward:** `30-50 piety`
 
-* **Channel:** \#cathedral
-* **Necessary tool:** None
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 15
-* **XP Reward:** 
-  * **XP Reward Cooldown:** 7d
+  * **Reward Cooldown:** 24h
 
-{% hint style="success" %}
-_r!mass works just like r!preach, except it is exclusive to ordained members of the clergy \(priests and bishops\), while also being more difficult to perform successfully, and it is exclusive to Sunday Mass._
-{% endhint %}
+  \*\*\*\*
 
-```javascript
-r!marry [first user] [second user]
-```
+**Success chance:**
 
-`r!marry` - _Used to marry two characters._
+* \(+\)**Strength:** `str`
+* \(-\)**Target's Strength:** `str`
+* \(+\)**Stamina:** `stm`
+* \(-\)**Target's Stamina:** `stm`
+* \(+\)**Random dice:** `0-2`
 
-#### Additional requirements:
+**Success Threshold:**
 
-* **Channel:** \#cathedral
-* **Necessary tool:** Piety
-* **Minimum Stamina:** None
-* **Buckles Reward:** 200
+* _**&lt;1** Fail:_ `Target loses 1/2 max hp`
+* _**1-12** Success:_ `Base Reward`
 
 {% hint style="warning" %}
-_A priest cannot marry themselves, and neither can they marry characters of the same gender. Additionally, if both characters are not Catholic, the command will fail. The man must have a wedding ring in his inventory for the command to work._
+_The Confessor role is overt and means that someone was converted to Catholicism, although they may still retain their previous beliefs. If a Confessor is caught again by the Inquisition, they will be executed._
 {% endhint %}
-
-{% hint style="info" %}
-_If a character's spouse dies, the widow/widower inherits their entire bank balance._
-{% endhint %}
-
-```javascript
-r!absolve [user]
-```
-
-`r!absolve` - _Used to absolve a character of sin._
-
-#### Additional requirements:
-
-* **Channel:** \#cathedral
-* **Necessary tool:** None
-* **Minimum Stamina:** None
-* **XP Reward:** 
-  * **XP Reward Cooldown:** 24h
 
 ## In-depth guide:
 
-Priests guide deacons, while they are instructed by the Archbishop. They have control over a specific church within Rosewood and are the de facto administrators of the building itself. They inherit all the abilities of Deacons and Scribes but also gain access to new ones since they have been ordained. They can administer all the Holy Sacraments, but cannot ordain, unlike Bishops. They will be often called upon to marry characters and to absolve their sins. Only Rosewoodian Priests can become the next Archbishop of Rosewood. Priests are valued for their knowledge of the Bible, and of Latin. More often than not, wealthy members of society will hire Priests to write official documents for them in Latin, as they are the educated few that know the language. Arguably their biggest task is to deliver the Gospel to the people of Rosewood and teach them the Bible.
+Inquisitors are the lowest rank of the Inquisition and as such, they work under the orders of other High Inquisitors, the Inquisitor General, or even the Archbishop of Rosewood. They cannot openly question every character, or arrest people based on OOC \(out of character\) knowledge. They may persecute a character if they have been reported by another PC \(player character\), if they have personally heard/witnessed heresy/paganism in action, or if they are commanded by their superiors. Their job is not to kill the enemies of the Church, but to arrest them. However, no one will look twice if they kill a heretic in trying to defend their own lives. Once they have a prisoner, they may offer them the chance to confess their sins and convert to Catholicism. If they accept or are forced, they will become a Confessor and will be let go. If they refuse to confess, the prisoner will be tried at a Morality Trial.
 
