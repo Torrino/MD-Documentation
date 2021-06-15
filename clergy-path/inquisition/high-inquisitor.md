@@ -12,6 +12,7 @@ High Inquisitors are members of the Inquisitor General's close circle. They are 
 
 * **Weekly Paycheck:** `35 coin`
 * **Rank-up Cost:** `250 piety`
+* **Rank-up Rewards:** `Gambeson, Mace`
 
 ## Mechanics:
 

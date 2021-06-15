@@ -10,7 +10,8 @@ description: >-
 
 The Deacon is the first rank of the threefold Christian ministry and is the governor of their respective diaconate, the smallest subdivision of the Catholic authority. Within larger settlements like Rosewood, a single church might have multiple diaconates, all presided by a Deacon, in service to their Parish Priest. However, in smaller settlements, like ones that only have one, a diaconate is synonymous with a parish, and the title is a transitionary period between Scribes and Priests. Deacons are not considered fully ordained priests and therefore their abilities are limited by law.
 
-**Weekly Paycheck:** `20 coin`
+* **Weekly Paycheck:** `20 coin`
+* **Rank-up Rewards:** `Clerical Robes`
 
 ## Mechanics:
 

@@ -18,6 +18,7 @@ Certain Archbishop characters will not be canonized since they will not meet the
 
 * **Weekly Paycheck:** `200 coin`
 * **Rank-up Cost:** `1000 piety`
+* **Rank-up Rewards:** `Episcopal Ring`
 
 ## Mechanics:
 

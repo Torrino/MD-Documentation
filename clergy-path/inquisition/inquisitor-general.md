@@ -12,6 +12,7 @@ The Inquisitor General is the head of the French Inquisition. They are chosen fo
 
 * **Weekly Paycheck:** `50 coin`
 * **Rank-up Cost:** `400 piety`
+* **Rank-up Rewards:** `Inquisitorial Ring, Chain Mail, Arming Sword, Horse`
 
 ## Mechanics:
 

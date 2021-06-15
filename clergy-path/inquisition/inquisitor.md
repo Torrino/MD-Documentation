@@ -14,7 +14,8 @@ Inquisitors are the soldiers of the French Inquisition. The institution is suppo
 Inquisitors can use the r!arrest command.
 {% endhint %}
 
-**Weekly Paycheck:** `20 coin`
+* **Weekly Paycheck:** `20 coin`
+* **Rank-up Rewards:** `Inquisitor Robes, Club`
 
 ## Mechanics:
 
