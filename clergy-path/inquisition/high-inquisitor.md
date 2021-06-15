@@ -37,7 +37,7 @@ _When used, will try to uncover potential heresy in the area, pointing you towar
 **Success Threshold:**
 
 * _**0-2** Critical Fail:_ `User is given false information. Must be acted upon.`
-* _**3-4**_ **Fail:** `User alerts the person they were trying to investigate.`
+* _**3-4**_ _Fail:_ `User alerts the person they were trying to investigate.`
 * _**5-6**_ _No change:_ `The investigation leads to a dead-end.`
 * _**7-8** Success:_ `A person is deemed suspicious, although their religion is uncertain. Cause for further investigation, not arrest.`
 * _**9-10**_ _Total Success:_ `A person's religion is revealed to the User. Cause for immediate arrest.`
