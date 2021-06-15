@@ -30,7 +30,7 @@ _Used to force someone into confessing their heresy. If successful, it will give
 
 * **Minimum Stamina:** `50%`
   * **Raw Stamina Cost:** `10`
-* **Base Reward:** `30-50 piety`
+* **Base Reward:** `40-80 piety`
 
   * **Reward Cooldown:** 24h
 
