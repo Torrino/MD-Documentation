@@ -10,6 +10,8 @@ description: >-
 
 Inquisitors are the soldiers of the French Inquisition. The institution is supported by the Roman Church, while its presence is not appreciated by most within the Kingdom. Inquisitors are chosen from among the local clergy and trained in the art of torture and combat in order to fight against the Pope's enemies and any perversions of the Catholic faith. They wear black robes and are feared by many within the Capital. While their main purpose is the extermination of heresy and apostasy, they also enforce the Church's moral laws upon the City of Rosewood.
 
+**Weekly Paycheck:** `20 coin`
+
 ## Mechanics:
 
 ### Extract Confession

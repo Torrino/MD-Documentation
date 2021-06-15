@@ -12,7 +12,7 @@ High Inquisitors are members of the Inquisitor General's close circle. They are 
 
 ## Mechanics:
 
-### Investiagte
+### Investigate
 
 {% code title="\#any" %}
 ```javascript
@@ -20,7 +20,7 @@ r!investigate
 ```
 {% endcode %}
 
-_Used to force someone into confessing their heresy. If successful, it will give the target the Confessor role. If unsuccessful, will inflict damage to the target equal to half of their max health._
+_When used, will try to uncover potential heresy in the area, pointing you towards suspicious individuals who can be further persecuted._
 
 * **Minimum Stamina:** `50%`
   * **Raw Stamina Cost:** `10`
