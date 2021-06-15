@@ -14,7 +14,7 @@ Inquisitors are the soldiers of the French Inquisition. The institution is suppo
 
 ### Extract Confession
 
-{% code title="\#any" %}
+{% code title="\#dungeons" %}
 ```javascript
 r!extract-confession <@user>
 ```
