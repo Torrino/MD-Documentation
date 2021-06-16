@@ -19,5 +19,14 @@ _The only way someone can become a Bard or an Inn Hand is by being hired by the 
 There can only be a maximum of **5 Inn Hands** and **5 Bards** at a time.
 {% endhint %}
 
+### Fire
 
+{% code title="Tavern Category" %}
+```javascript
+r!fire <@user>
+```
+{% endcode %}
+
+_`<@user>` - The mentioned discord user you want to fire.  
+Used for firing a user you hired previously from their role._
 
