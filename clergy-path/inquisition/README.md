@@ -31,5 +31,3 @@ _Any scribe may choose to join the Inquisition, and they have three roles they c
 
 {% page-ref page="inquisitor-general.md" %}
 
-
-

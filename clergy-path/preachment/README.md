@@ -28,5 +28,3 @@ The opposite applies if there are too many players in the route, meaning, the pr
 
 {% page-ref page="archbishop.md" %}
 
-
-
