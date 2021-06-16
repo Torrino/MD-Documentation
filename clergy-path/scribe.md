@@ -48,6 +48,10 @@ _The Alm command's piety output scales with the amount of buckles sacrificed. Ho
 
 When joining the clergy, everyone starts off as a Scribe. Scribes are the lowest rank within the Clergy and as such have the least duties. When in the Clergy, people are given access to `r!transcribe` and `r!alm`, allowing them to work for gold, and for piety, respectively. Piety is what the Clergy uses in order to both progress through the ranks, but also as a type of "spiritual currency" expended in order to use some of their exclusive commands. Their work is mostly done within the confines of the Cathedral, where they have a Scriptoria. They command no one, and can offer little religious guidance.
 
+{% hint style="info" %}
+_Starting with Scribe, and going throughout the rest of the clergy, every man/woman take oaths of celibacy, poverty, and loyalty to the Church. Breaking any of these can lead to you being tried and punished!_
+{% endhint %}
+
 ## Piety:
 
 Piety is the "spiritual currency" of the clergy path and is used to progress through the ranks, as well as to use certain commands. Piety can be earned in many different ways \(for example r!alm, r!preach, r!mass, etc.\) Once you want your character to rank up, and you have enough piety to do so, you should go and speak to the Pastor NPC, where you will be able to spend your piety on a rank-up. It is important to maintain a positive piety balance since your character will lose 10 piety every week. In the event that your piety falls below zero, for any reason, your character will lose their clergy role and will be given the Monk role instead, meaning they can't rejoin the clergy ever again. Additionally, there are certain things that will incur a piety penalty:

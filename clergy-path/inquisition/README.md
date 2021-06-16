@@ -23,6 +23,8 @@ The opposite applies if there are too many players in the route, meaning, the pr
 
 _Any scribe may choose to join the Inquisition, and they have three roles they can progress through._
 
+## Inquisition Route Ranks
+
 {% page-ref page="inquisitor.md" %}
 
 {% page-ref page="high-inquisitor.md" %}
