@@ -33,5 +33,5 @@ The `Invigorated` role gives the user a massive stat boost during combat, in bot
 
 ## In-depth guide:
 
-Helpers are the lowest rank within the Medicinal route. In addition to r!alm, they can also earn piety through r!aid. When a character is a helper, their best strategy would be to RP passively and grind piety through the commands at their disposal since they can't make use of Medici's empowered heal command. Their RP is mostly related to healing knowledge and tending to the sick/frail.
+The Head Medicus would work closely with the Archbishop, taking care of the Infirmary, which is sponsored by the Catholic Church. There are other Head Medici within the cities of the Kingdom of France, but they usually don't meddle in the affairs of other cities or their Head Medicus. For the most part, their jobs are peaceful and they have a lot of popularity within their respective city. Preceding big battles or perhaps even tournaments, the wealthiest and noblest will probably be vying for the Head Medicus' favor in order to be invigorated before their fight.
 
