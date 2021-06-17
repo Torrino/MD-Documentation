@@ -4,7 +4,7 @@ description: >-
   command.
 ---
 
-# Headhunter 🗡️
+# Headhunter 📜
 
 ## Description:
 
