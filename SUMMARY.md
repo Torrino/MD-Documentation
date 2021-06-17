@@ -55,21 +55,21 @@
   * [Inn Hand 🍻](commoner/service/inn-hand.md)
   * [Bard 🎶](commoner/service/bard.md)
 
-## ⛪Clergy Path
+## ⛪Clergy Path <a id="clergy"></a>
 
-* [Scribe ✍️](clergy-path/scribe.md)
-* [Preachment Route](clergy-path/preachment/README.md)
-  * [Deacon 📿](clergy-path/preachment/deacon.md)
-  * [Priest 🙏](clergy-path/preachment/priest.md)
-  * [Archbishop ⛪](clergy-path/preachment/archbishop.md)
-* [Inquisition Route](clergy-path/inquisition/README.md)
-  * [Inquisitor ✊](clergy-path/inquisition/inquisitor.md)
-  * [High Inquisitor 🔥](clergy-path/inquisition/high-inquisitor.md)
-  * [Inquisitor General ⚖️](clergy-path/inquisition/inquisitor-general.md)
-* [Medicinal Route](clergy-path/medicinal/README.md)
-  * [Helper 🛏️](clergy-path/medicinal/helper.md)
-  * [Medicus 🩸](clergy-path/medicinal/medicus.md)
-  * [Head Medicus ⚕️](clergy-path/medicinal/head-medicus.md)
+* [Scribe ✍️](clergy/scribe.md)
+* [Preachment Route](clergy/preachment/README.md)
+  * [Deacon 📿](clergy/preachment/deacon.md)
+  * [Priest 🙏](clergy/preachment/priest.md)
+  * [Archbishop ⛪](clergy/preachment/archbishop.md)
+* [Inquisition Route](clergy/inquisition/README.md)
+  * [Inquisitor ✊](clergy/inquisition/inquisitor.md)
+  * [High Inquisitor 🔥](clergy/inquisition/high-inquisitor.md)
+  * [Inquisitor General ⚖️](clergy/inquisition/inquisitor-general.md)
+* [Medicinal Route](clergy/medicinal/README.md)
+  * [Helper 🛏️](clergy/medicinal/helper.md)
+  * [Medicus 🩸](clergy/medicinal/medicus.md)
+  * [Head Medicus ⚕️](clergy/medicinal/head-medicus.md)
 
 ## 🏹Military Path
 
