@@ -10,28 +10,27 @@ description: >-
 
 Medici are the base of the Medicinal route within the clergy. They are fully-trained physicians versed in both the four humors, as well as modern French medicine. Most in Rosewood respect them for their healing capabilities and will go to them for any injuries, or illnesses they may come across.
 
+When you reach the Medicus rank, your character will gain the Leech title.
+
 * **Weekly Paycheck:** `40 coin`
+* **Rank-up Cost:** `150 piety`
 * **Rank-up Rewards:** `None`
 
 ## Mechanics:
 
-### Aid
+### Heal
 
-{% code title="\#infirmary" %}
+{% code title="\#any" %}
 ```javascript
-r!aid
+r!heal
 ```
 {% endcode %}
 
-_Used by Helpers to gain piety through aiding the old and the sick in the infirmary._
+_Used to heal characters' HP. For further information, check the link below:_
 
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10
-* **Base Reward:** `20-30 piety`
-  * **Reward Cooldown:** 24h
-  * **Command Cooldown:** 2h
+{% page-ref page="../../character/health/healing.md" %}
 
 ## In-depth guide:
 
-Helpers are the lowest rank within the Medicinal route. In addition to r!alm, they can also earn piety through r!aid. When a character is a helper, their best strategy would be to RP passively and grind piety through the commands at their disposal since they can't make use of Medici's empowered heal command. Their RP is mostly related to healing knowledge and tending to the sick/frail.
+Medici are valued for their powerful healing command. While technically everyone has access to it, the Medici's heal is much more powerful, even in its weakest form. Like in most roles before this one, Intelligence is a highly prized SICS stat within the clergy, especially in the Medicinal route due to its direct effect on the heal command. Medici will spend most of their time in the infirmary but may be called upon to visit residential areas, battlefields, or elsewhere. They are also employed to care for the pregnant women of Rosewood and help them deliver their children, greatly reducing both mother and child mortality rates within the City.
 
