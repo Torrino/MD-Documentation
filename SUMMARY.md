@@ -73,7 +73,15 @@
 
 ## 🏹Military Path <a id="military"></a>
 
-* [City Watch Route](military/city-watch.md)
+* [City Watch Route](military/city-watch/README.md)
+  * [Recruit](military/city-watch/recruit.md)
+  * [Picket](military/city-watch/picket.md)
+  * [Guard](military/city-watch/guard.md)
+  * [Sargeant](military/city-watch/sargeant.md)
+  * [Officer](military/city-watch/officer.md)
+  * [Lieutenant](military/city-watch/lieutenant.md)
+  * [Captain](military/city-watch/captain.md)
+  * [Bailiff](military/city-watch/bailiff.md)
 * [Sellsword Route](military/sellsword.md)
 
 ## 👑Majesty Path

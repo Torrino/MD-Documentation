@@ -30,7 +30,7 @@ _Characters who are married cannot join the Clergy._
 
 Those in the Military Path may expect frequent combat. A person may choose between two options:
 
-* [City Watch Route](../../military/city-watch.md)
+* [City Watch Route](../../military/city-watch/)
 * [Sellsword Route](../../military/sellsword.md)
 
 ## Majesty Path
