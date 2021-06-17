@@ -12,6 +12,8 @@ When someone joins the Clergy, they will start out as a Scribe. Scribes will spe
 
 ## Mechanics
 
+### Transcribe
+
 {% code title="\#cathedral" %}
 ```javascript
 r!transcribe
@@ -23,6 +25,8 @@ _Used to transcribe/translate texts to or from latin for coin. Using this comman
 * **Income:** `2-4 coin`
 * **Minimum stamina:** `40%`
 * **Stamina cost:** `10`
+
+### Alm
 
 {% code title="\#cathedral" %}
 ```javascript
