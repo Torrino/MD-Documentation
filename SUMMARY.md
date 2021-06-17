@@ -71,10 +71,10 @@
   * [Medicus 🩸](clergy/medicinal/medicus.md)
   * [Head Medicus ⚕️](clergy/medicinal/head-medicus.md)
 
-## 🏹Military Path
+## 🏹Military Path <a id="military"></a>
 
-* [City Watch Route](military-path/city-watch.md)
-* [Sellsword Route](military-path/sellsword.md)
+* [City Watch Route](military/city-watch.md)
+* [Sellsword Route](military/sellsword.md)
 
 ## 👑Majesty Path
 
