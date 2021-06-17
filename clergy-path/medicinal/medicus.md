@@ -12,7 +12,7 @@ Medici are the base of the Medicinal route within the clergy. They are fully-tra
 
 When you reach the Medicus rank, your character will gain the Leech title.
 
-* **Weekly Paycheck:** `40 coin`
+* **Weekly Paycheck:** `35 coin`
 * **Rank-up Cost:** `150 piety`
 * **Rank-up Rewards:** `None`
 

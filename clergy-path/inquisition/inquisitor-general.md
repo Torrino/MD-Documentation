@@ -10,8 +10,8 @@ description: >-
 
 The Inquisitor General is the head of the French Inquisition. They are chosen for their loyalty to the Pope, and their devotion to the Catholic faith from among the High Inquisitors of the Kingdom of France. The Inquisitor General answers only to the Pope and is a figure feared throughout Rosewood, from where they operate. The fear they inspire is mostly felt among the commoners, although the rest of the clergy and even the nobility fear the Inquisitor General due to their extraordinary position within France. During Morality trials, if the Archbishop is not available, they will take their place and hold the trial in the Bishop's stead.
 
-* **Weekly Paycheck:** `50 coin`
-* **Rank-up Cost:** `400 piety`
+* **Weekly Paycheck:** `80 coin`
+* **Rank-up Cost:** `600 piety`
 * **Rank-up Rewards:** `Inquisitorial Ring, Chain Mail, Arming Sword, Horse`
 
 ## Mechanics:

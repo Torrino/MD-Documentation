@@ -10,8 +10,8 @@ description: >-
 
 High Inquisitors are members of the Inquisitor General's close circle. They are experienced members of the Inquisition and are widely known by an alternative name which is usually part of Abrahamic angel tradition. High Inquisitors are more cunning and can investigate an area to pick up clues regarding someone's religion, be those physical clues or eyewitness accounts. 
 
-* **Weekly Paycheck:** `35 coin`
-* **Rank-up Cost:** `250 piety`
+* **Weekly Paycheck:** `40 coin`
+* **Rank-up Cost:** `300 piety`
 * **Rank-up Rewards:** `Gambeson, Mace`
 
 ## Mechanics:
