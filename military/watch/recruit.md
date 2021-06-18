@@ -1,16 +1,18 @@
 ---
 description: >-
-  A page detailing the Scribe role within Medieval Discord and their transcribe
-  and alm commands.
+  A page detailing the Recruit role within Medieval Discord and their aid
+  command.
 ---
 
-# Scribe ✍️
+# Recruit
 
 ## Description:
 
+
+
 When someone joins the Clergy, they will start out as a Scribe. Scribes will spend their day transcribing and translating certain texts for buckles. Additionally, they are ordered around by the higher ranks in order to accomplish menial tasks. In order to become a Scribe, you will need to talk to the Pastor NPC and request to join. He is also who you talk to in order to rank up within the Clergy.
 
-## Mechanics:
+## Mechanics
 
 ### Transcribe
 
