@@ -11,6 +11,7 @@ description: >-
 Pickets are members of the Watch who have proven to be worthy of joining. This rank is their first step into the duties of a true Guard. For the duration of being a Picket, a character does not hold true authority over other citizens. They may advise them against something, they may report issues to their superiors, and they may intervene to stop a crime, but they may not investigate or make arrests on their own. Instead, Pickets are meant to observe and uphold the peace by their presence.
 
 * **Weekly Paycheck:** `5 coin`
+* **Rank-up Cost:** `150 piety`
 * **Rank-up Rewards:** `Watch Uniform`
 
 ## Mechanics:
