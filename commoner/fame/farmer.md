@@ -24,24 +24,23 @@ The `r!harvest`command is used by Farmers in order to gather grain and vegetable
 
 #### Possible Outcomes:
 
-* **Grain**
-* **Cabbage**
-* **Lettuce**
-* **Onions**
-* **Carrots**
-* **Field Peas**
+* **`Grain`**
+* **`Cabbage`**
+* **`Lettuce`**
+* **`Onions`**
+* **`Carrots`**
+* **`Field Peas`**
 
 #### Additional requirements:
 
-* **Channel:** \#farmlands
 * **Necessary tool:** Hoe
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `harvest`
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `harvest`_
 
 ### Slaughter
 
@@ -51,7 +50,6 @@ r!slaughter <animal name>
 ```
 {% endcode %}
 
-_&lt;animal name&gt; -_   
 The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, which can then be sold to the Market or to Butcher characters.
 
 **Possible Outcomes:**
