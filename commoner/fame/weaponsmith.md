@@ -12,39 +12,42 @@ The Weaponsmith is a well-regarded role by Rosewood's population. They forge the
 
 ## Mechanics:
 
+{% code title="\#workshop" %}
 ```javascript
 r!forge <item name>
 ```
+{% endcode %}
 
 _`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!forge arming sword`_
 
-Just like every other smith, the Weaponsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Weaponsmith has a Hammer equipped.
+Just like every other smith, the Weaponsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market.
 
 #### Recipes:
 
-* **Arming Sword** \[3 Steel Bars + 1 Wood\] _{Novice}_
-* **Longsword** \[5 Steel Bars + 1 Wood\] _{Adept}_
-* **Falchion Sword** \[2 Steel Bars + 1 Wood\] _{Apprentice}_
-* **Dagger** \[1 Steel Bar + 1 Wood\] _{Novice}_
-* **Mace** \[1 Iron Bar + 1 Wood\] _{Novice}_
-* **Spear** \[1 Iron Bar + 2 Wood\] _{Novice}_
-* **Pike** \[1 Iron Bars + 3 Wood\] _{Apprentice}_
-* **Halberd** \[3 Steel Bars + 3 Wood\] _{Master}_
-* **Lance** \[2 Steel Bars + 3 Wood\] _{Adept}_
-* **War Hammer** \[3 Steel Bars + 2 Wood\] _{Master}_
-* **Dane Axe** \[2 Steel Bars + 2 Wood\] _{Grandmaster}_
+| **Item** | Ingredients | Level Requirement |
+| :--- | :--- | :--- |
+| **Arming Sword** | _3 Steel Bars + 1 Wood_ | Novice |
+| **Longsword** | _5 Steel Bars + 1 Wood_ | Adept |
+| **Falchion Sword** | _2 Steel Bars + 1 Wood_ | Apprentice |
+| **Dagger** | _1 Steel Bar + 1 Wood_ | Novice |
+| **Mace** | _1 Iron Bar + 1 Wood_ | Novice |
+| **Spear** | _1 Iron Bar + 2 Wood_ | Novice |
+| **Pike** | _1 Iron Bar + 3 Wood_ | Apprentice |
+| **Halberd** | _3 Steel Bars + 3 Wood_ | Master |
+| **Lance** | _2 Steel Bars + 3 Wood_ | Adept |
+| **War Hammer** | _3 Steel Bars + 2 Wood_ | Master |
+| **Dane Axe** | _2 Steel Bars + 2 Wood_ | Grandmaster |
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5` ****
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!forge`_
 
 ## Relationship with the Market and other Users:
 
