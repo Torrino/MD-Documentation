@@ -24,11 +24,6 @@ The `r!cobble` command is used by the Cobbler in order to craft footwear from si
 
 #### Recipes:
 
-* **Rosewood Boots** \[3 Leather + 2 Tanned Leather\]
-* **Highborn Boots** \[4 Tanned Leather + 2 Wool\]
-* **Winter Boots** \[2 Tanned Leather + 2 Fur\]
-* **Regular Shoes** \[2 Leather + 1 Wool\]
-
 | **Item** | Ingredients |
 | :--- | :--- |
 | **Rosewood Boots** | _3 Leather + 2 Tanned Leather_ |
