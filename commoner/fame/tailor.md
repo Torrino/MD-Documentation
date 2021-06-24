@@ -12,9 +12,11 @@ A Tailor is someone who fashions clothes for the people of Rosewood out of a ple
 
 ## Mechanics:
 
+{% code title="\#workshops" %}
 ```javascript
 r!tailor <item name>
 ```
+{% endcode %}
 
 _`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!tailor winter clothes`_
 
@@ -22,19 +24,20 @@ The `r!tailor` command is used by the Tailor in order to craft clothing from sim
 
 #### Recipes:
 
-* **Rosewood Style** \[2 Tanned Leather + 5 Cloth\]
-* **Highborn Clothes** \[6 Linen + 1 Silk\]
-* **Winter Clothes** \[4 Fur + 2 Wool + 2 Tanned Leather\]
+| **Item** | Ingredients |
+| :--- | :--- |
+| **Rosewood Style** | _2 Tanned Leather + 5 Cloth_ |
+| **Highborn Clothes** | _6 Linen + 1 Silk_ |
+| **Winter Clothes** | _4 Fur + 2 Wool + 2 Tanned Leather_ |
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** None
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!tailor`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5` ****
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!tailor`_
 
 ## Relationship with the Market and other Users:
 
