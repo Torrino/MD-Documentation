@@ -24,15 +24,6 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 
 #### Recipes:
 
-* **Axe:** `3 Iron Bars + 2 Wood`
-* **Hammer:** `1 Iron Bar + 1 Wood`
-* **Nails:** `1 Iron Bar`
-* **Horseshoe:** `2 Iron Bars`
-* **Slaughter Knife:** `1 Iron Bar + 1 Wood`
-* **Hoe:** `2 Iron Bars + 2 Wood`
-* **Steel Bar:** `5 Iron Ore + 10 Charcoal`
-* **Iron Bar:** `5 Iron Ore`
-
 | **Item** | Ingredients |
 | :--- | :--- |
 | **Axe** | _3 Iron Bars + 2 Wood_ |
@@ -48,12 +39,12 @@ Just like every other smith, the Blacksmith uses the `r!forge` command in order 
 
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
   * **Raw Stamina Cost:** `5`
 * **XP Reward:** `3`
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!forge`_
 
 ## Relationship with the Market and other Users:
 
