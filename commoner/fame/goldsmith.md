@@ -12,32 +12,35 @@ The Goldsmith is a very prestigious role in Rosewood's market. They are the peop
 
 ## Mechanics:
 
+{% code title="\#workshops" %}
 ```javascript
 r!forge <item name>
 ```
+{% endcode %}
 
 _`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!forge gold jewelry`_
 
-Just like every other smith, the Goldsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Goldsmith has a Hammer equipped.
+Just like every other smith, the Goldsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market.
 
 #### Recipes:
 
-* **Silver Jewelry** \[3 Silver Nuggets\]
-* **Gold Jewelry** \[3 Gold Nuggets + 1 Crystal\]
-* **Silver Nugget** \[3 Silver Ore\]
-* **Gold Nugget** \[3 Gold Ore\]
+| **Item** | Ingredients |
+| :--- | :--- |
+| **Silver Jewelry** | _3 Silver Nuggets_ |
+| **Gold Jewelry** | _3 Gold Nuggets + 1 Crystal_ |
+| **Silver Nugget** | _3 Silver Ore_ |
+| **Gold Nugget** | _3 Gold Ore_ |
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!forge`_
 
 ## Relationship with the Market and other Users:
 
