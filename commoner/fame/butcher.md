@@ -28,30 +28,33 @@ The `r!butcher`command is used by the Butcher in order to successfully gather me
 
 #### Animal Corpses:
 
-* **Slaughtered Pig** \(gives Raw Pork and Leather\)
-* **Slaughtered Cow** \(gives Raw Beef/Veal and Leather\)
-* **Slaughtered Chicken** \(gives Raw Chicken and Feathers\)
-* **Slaughtered Sheep** \(gives Raw Lamb and Wool\)
-* **Deer corpse** \(gives Raw Venison and Leather\)
-* **Boar corpse** \(gives Raw Boar and Leather\)
-* **Rabbit corpse** \(gives Raw Hare and Fur\)
-* **Pheasant corpse** \(gives Raw Pheasant and Feathers\)
+| Animal Corpse | Resulting Resources |
+| :--- | :--- |
+| **Slaughtered Pig** | _Raw Pork and Leather_ |
+| **Slaughtered Cow** | _Raw Beef/Veal and Leather_ |
+| **Slaughtered Chicken** | _Raw Chicken and Feathers_ |
+| **Slaughtered Sheep** | _Raw Lamb and Wool_ |
+| **Deer Corpse** | _Raw Venison and Leather_ |
+| **Boar Corpse** | _Raw Boar and Leather_ |
+| **Rabbit Corpse** | _Raw Hare and Fur_ |
+| **Pheasant Corpse** | _Raw Pheasant and Feathers_ |
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
-  * **Durability cost:** 5 per use
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!butcher`
+  * **Durability cost:** `5 per use`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5` ****
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!butcher`_
 
+{% code title="\#workshops" %}
 ```javascript
 r!tan <amount>
 ```
+{% endcode %}
 
 _`<amount>`_ _- The amount of leather from your inventory that you want to tan. Example:_ _`r!tan 4`_
 
@@ -59,15 +62,14 @@ The `r!tan`command is used by the Butcher in order to successfully tan ordinary 
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
-  * **Durability cost:** 5 per use
-* **Minimum Stamina:** 25%
-  * **Raw Stamina Cost:** 5
-* **XP Reward:** 1 per Leather tanned
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!tan`
+  * **Durability cost:** `5 per use`
+* **Minimum Stamina:** `25%`
+  * **Raw Stamina Cost:** `5`
+* **XP Reward:** `1 per Leather tanned`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!tan`_
 
 ## Relationship with the Market and other Users:
 
