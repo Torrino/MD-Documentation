@@ -12,35 +12,38 @@ The Armorsmith is famous for turning raw materials into fancy armor and shields 
 
 ## Mechanics:
 
+{% code title="\#workshops" %}
 ```javascript
 r!forge <item name>
 ```
+{% endcode %}
 
 _`<item name>`_ _- The name of the item you're trying to forge. Example:_ _`r!forge chain mail`_
 
-Just like every other smith, the Armorsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market. This command can only be used in the \#workshops channel, while the Armorsmith has a Hammer equipped.
+Just like every other smith, the Armorsmith uses the `r!forge` command in order to turn simple materials into complex products which can then be used in trading or selling in the Market.
 
 #### Recipes:
 
-* **Gambeson** \[10 Linen\] _{Novice}_
-* **Brigandine** \[8 Linen + 10 Steel Bars\] _{Adept}_
-* **Chain Mail** \[12 Iron Bars\] _{Master}_
-* **Rosewoodian Plate** \[15 Steel Bars\] _{Grandmaster}_
-* **Heather Shield** \[4 Wood + 2 Iron Bars\] _{Apprentice}_
-* **Round Shield** 5 Wood + 2 Linen\] _{Novice}_
-* **Kite Shield** \[6 Wood + 2 Steel\] _{Grandmaster}_
+| **Item** | Ingredients | Level Requirement |
+| :--- | :--- | :--- |
+| **Gambeson** | _10 Linen_ | Novice |
+| **Brigandine** | _8 Linen + 10 Steel_  | Adept |
+| **Chain Mail** | _12 Iron Bars_ | Master |
+| **Rosewoodian Plate** | _15 Steel Bars_ | Grandmaster |
+| **Heather Shield** | _4 Wood + 2 Iron Bars_ | Apprentice |
+| **Round Shield** | _5 Wood + 2 Linen_ | Novice |
+| **Kite Shield** | _6 Wood + 2 Steel Bars_ | Grandmaster |
 
 #### Additional requirements:
 
-* **Channel:** \#workshops
 * **Necessary tool:** Hammer
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!forge`
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!forge`_
 
 ## Relationship with the Market and other Users:
 
