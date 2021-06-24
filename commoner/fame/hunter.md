@@ -24,10 +24,12 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
 
 #### Animals:
 
-* **Rabbit** \[1 Arrow\]
-* **Pheasant** \[2 Arrows\]
-* **Deer** \[3 Arrows\]
-* **Boar** \[1 Spear\]
+| Animal Target | Requirements |
+| :--- | :--- |
+| **Rabbit** | _Bow + 1 Arrow_ |
+| **Pheasant** | _Bow + 2 Arrows_ |
+| **Deer** | _Bow + 3 Arrows_ |
+| **Boar** | _Bow + 1 Spear_ |
 
 #### Additional requirements:
 
@@ -40,13 +42,12 @@ The `r!hunt`command is used by the Hunter in order to successfully hunt and capt
 
   *  Spear
     * **Location:** Primary slot
-    * **Durability cost:** 20
-* **Channel:** \#forest 
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!hunt`
+    * **Durability cost:** `20`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `5`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!hunt`_
 
 ## Relationship with the Market and other Users:
 
