@@ -12,43 +12,42 @@ Merchants walk the roads of the Kingdom and of the known World in order to buy a
 
 ## Mechanics:
 
+{% code title="\#any outside settlement" %}
 ```javascript
 r!shipment
 ```
+{% endcode %}
 
 The `r!shipment` command is used by the Merchant in order to obtain a Shipment within their inventory which can then be opened with the `r!open-shipment`. 
 
 #### Local Shipment Types:
 
-* **Common Shipment** \[Obtainable in Frey\] \(_may contain_ _lemons, oranges, pears, apples, plums, cheese, beer, ale, wine, spirit, dyes, salt, grain_\)
+* **Common Shipment** `[Obtainable in Frey]` _\(may contain lemons, oranges, pears, apples, plums, cheese, beer, ale, wine, spirit, dyes, salt, grain\)_
 * **Uncommon Shipment** \[Obtainable in Forechester\]
 
-  \(_may contain_ _crystals, lemons, oranges, pares, apples, plums, cheese, beer, ale, wine, spirit, dyes, salt, grain_\)
+  _\(may contain crystals, lemons, oranges, pares, apples, plums, cheese, beer, ale, wine, spirit, dyes, salt, grain\)_
 
-* **Rare Shipment** \[Obtainable in Shelby\] \(_may contain_ _crystals, lemons, oranges, pares, apples, plums, wine, spirit, dyes, salt, grain_\)
-* **Unique Shipment** \[Obtainable in Kington\] \(_may contain_ _crystals, lemons, oranges, pares, apples, plums, wine, spirit, dyes, salt, grain_\)
-* **Extraordinary Shipment** \[Obtainable in Kington\] ****\(_may contain_ _crystals, lemons, oranges, plums, wine, dyes, salt, silk, spices, grain_\)
+* **Rare Shipment** `[Obtainable in Shelby]` _\(may contain crystals, lemons, oranges, pares, apples, plums, wine, spirit, dyes, salt, grain\)_
+* **Unique Shipment** `[Obtainable in Kington]` _\(may contain crystals, lemons, oranges, pares, apples, plums, wine, spirit, dyes, salt, grain\)_
+* **Extraordinary Shipment** `[Obtainable in Kington]` ****_\(may contain crystals, lemons, oranges, plums, wine, dyes, salt, silk, spices, grain\)_
 
 #### Exotic Shipment Types:
 
-* **Venice Shipment** \[Obtainable in Venice\] \(_may contain_ _silk, spices, salt, amethyst, perfumes, paper, olive oil, vintage wine_\)
-* **Constantinople Shipment** \[Obtainable in Constantinople\]
+* **Venice Shipment** `[Obtainable in Venice]` _\(may contain silk, spices, salt, amethyst, perfumes, paper, olive oil, vintage wine\)_
+* **Constantinople Shipment** `[Obtainable in Constantinople]`
 
-  \(_may contain_ _silk, spices, salt, amethyst, pearl, paper, written book, olive oil, vintage wine, incense_\)
+  _\(may contain silk, spices, salt, amethyst, pearl, paper, written book, olive oil, vintage wine, incense\)_
 
-* **Alexandria Shipment** \[Obtainable in Alexandria\] \(_may contain_ _silk, spices, salt, emerald, pearl, written book, perfumes, dried murex, vintage wine, incense_\)
-* **Baghdad Shipment** \[Obtainable in Baghdad\] \(_may contain_ _silk, spices, salt, emerald, ruby, written book, lapis lazuli, dried murex, vintage wine, damascus steel bar_\)
-* **Cambay Shipment** \[Obtainable in Cambay\] ****\(_may contain_ _silk, spices, salt, emerald, ruby, pearl, written book, lapis lazuli, vintage wine, ivory_\)
-* **Cathay Shipment** \[Obtainable in Cathay\] ****\(_may contain_ _silk, spices, salt, emerald, ruby, pearl, crystals, written book, paper, vintage wine, ivory, tilsent_\)
+* **Alexandria Shipment** `[Obtainable in Alexandria]` _\(may contain silk, spices, salt, emerald, pearl, written book, perfumes, dried murex, vintage wine, incense\)_
+* **Baghdad Shipment** `[Obtainable in Baghdad]` _\(may contain silk, spices, salt, emerald, ruby, written book, lapis lazuli, dried murex, vintage wine, damascus steel bar\)_
+* **Cambay Shipment** `[Obtainable in Cambay]` ****_\(may contain silk, spices, salt, emerald, ruby, pearl, written book, lapis lazuli, vintage wine, ivory\)_
+* **Cathay Shipment** `[Obtainable in Cathay]` ****_\(may contain silk, spices, salt, emerald, ruby, pearl, crystals, written book, paper, vintage wine, ivory, tilsent\)_
 
-#### Additional requirements:
+#### Additional info:
 
-* **Channel:** \#market & \#traders\_inn
-* **Necessary tool:** None
-* **Minimum Stamina:** None
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!shipment`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!shipment`_
 
 ## Relationship with the Market and other Users:
 
