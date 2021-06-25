@@ -23,7 +23,7 @@ r!convert <@user>
 ```
 {% endcode %}
 
-_Used by Deacons to convert characters to Catholicism.  
+_Used by characters to convert someone's religion to yours \(or by clergy to convert to Catholicism\).  
 `<@user>` - The mentioned discord user whose character you want to convert._
 
 * **Cost:** `20 piety`
