@@ -54,26 +54,25 @@ The `r!slaughter`command is used by Farmers to gather Slaughtered Farm Animals, 
 
 **Possible Outcomes:**
 
-* **Slaughtered Cow**
-* **Slaughtered Pig**
-* **Slaughtered Chicken**
-* **Slaughtered Sheep**
+* **`Slaughtered Cow`**
+* **`Slaughtered Pig`**
+* **`Slaughtered Chicken`**
+* **`Slaughtered Sheep`**
 
 #### Additional requirements:
 
-* **Channel:** \#farmlands
 * **Necessary tool:** Slaughter Knife
   * **Location:** Primary slot
-  * **Durability cost:** 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 15
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!slaughter`
+  * **Durability cost:** `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `15`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!slaughter`_
 
 ## Relationship with the Market and other Users:
 
-Farmers are the primary source of food for the Market and for other Characters. Since they are the only role which can produce locally-grown food, they have a pivotal role to play in Rosewood. Plus the added fact that they can slaughter their farm animals means they are also he primary source of meat, and other animal-originated materials like leather and feathers.  
+Farmers are the primary source of food for the Market and for other Characters. Since they are the only role that can produce locally-grown food, they have a pivotal role to play in Rosewood. Plus the added fact that they can slaughter their farm animals means they are also the primary source of meat, and other animal-originated materials like leather and feathers.  
   
 Farmers have the choice to sell their produce directly to the Market, or to other characters for a notable profit. Ideally, a Farmer would sell their vegetables and grain to any characters, while they should sell Slaughtered Animals to Butchers.
 
