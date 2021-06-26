@@ -12,9 +12,11 @@ Thieves are part of Rosewood's criminal underworld and make a living by stealing
 
 ## _Command_
 
+{% code title="\#any" %}
 ```javascript
 r!pickpocket [@user] [item name]
 ```
+{% endcode %}
 
 `r!pickpocket` - _Used to pickpocket NPCs in Rosewood\(anyone\)_
 
@@ -34,9 +36,11 @@ r!pickpocket [@user] [item name]
 
 ## _Pickpocketing an Item \(Only for THIEVES\)_
 
+{% code title="\#any" %}
 ```javascript
 r!pickpocket @user item
 ```
+{% endcode %}
 
 * **Base success** **chance**: `20%`, `30%`, `50%`, `70%`, `80%` \(increase with level\)
 * **Positive modifiers:**

@@ -12,22 +12,23 @@ Headhunters are men and women who make a living by claiming the lives of outlaws
 
 ## Mechanics:
 
+{% code title="\#forest" %}
 ```javascript
 r!seek
 ```
+{% endcode %}
 
 `r!seek` - _Used to engage bandits and outlaws in the \#forest_
 
 #### Additional requirements:
 
-* **Channel:** \#forest
 * **Necessary tool:** Any weapon
   * **Location:** Primary slot
-* **Minimum Stamina:** 10%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!seek`
+* **Minimum Stamina:** `10%`
+  * **Raw Stamina Cost:** `5` ****
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!seek`_
 
 ## Relationship with the Market and other Users:
 
