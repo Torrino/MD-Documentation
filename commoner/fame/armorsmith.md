@@ -30,8 +30,8 @@ Just like every other smith, the Armorsmith uses the `r!forge` command in order 
 | **Brigandine** | _8 Linen + 10 Steel_  | Adept |
 | **Chain Mail** | _12 Iron Bars_ | Master |
 | **Rosewoodian Plate** | _15 Steel Bars_ | Grandmaster |
-| **Heather Shield** | _4 Wood + 2 Iron Bars_ | Apprentice |
 | **Round Shield** | _5 Wood + 2 Linen_ | Novice |
+| **Heather Shield** | _4 Wood + 2 Iron Bars_ | Apprentice |
 | **Kite Shield** | _6 Wood + 2 Steel Bars_ | Grandmaster |
 
 #### Additional requirements:
