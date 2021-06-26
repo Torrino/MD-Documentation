@@ -20,17 +20,17 @@ r!pickpocket [@user] [item name]
 
 `r!pickpocket @user` - _Used to pickpocket other characters\(anyone\)_
 
-`r!pickpocket @user item name` - _Used to steal a specific item from another character's inventory\(Thieves only\)_
+`r!pickpocket @user item name` - _Used to steal a specific item from another character's inventory \(Thieves only\)_
 
 #### Additional requirements:
 
 * **Channel:** Any
 * **Necessary tool:** None
-* **Minimum Stamina:** 10%
-  * **Raw Stamina Cost:** 5 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!pickpocket`
+* **Minimum Stamina:** `10%`
+  * **Raw Stamina Cost:** `5`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!pickpocket`_
 
 ## _Pickpocketing an Item \(Only for THIEVES\)_
 
@@ -40,12 +40,12 @@ r!pickpocket @user item
 
 * **Base success** **chance**: `20%`, `30%`, `50%`, `70%`, `80%` \(increase with level\)
 * **Positive modifiers:**
-  * Stamina point ****`+S%`
-  * Hooded robes ****`+10%`
+  * _Stamina point ****`+S%`_
+  * _Hooded robes ****`+10%`_
 * **Negative modifiers:**
-  * Gambeson \| Chainmail `-10%`
-  * Brigandine \| Rosewoodian plate `-25%`
-  * @user's Intelligence `-I%`
+  * _Gambeson \| Chainmail `-10%`_
+  * _Brigandine \| Rosewoodian plate `-25%`_
+  * _@user's Intelligence `-I%`_
 
 ### _**Success**_
 
