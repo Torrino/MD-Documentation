@@ -27,14 +27,14 @@ Just like every other smith, the Weaponsmith uses the `r!forge` command in order
 | **Item** | Ingredients | Level Requirement |
 | :--- | :--- | :--- |
 | **Arming Sword** | _3 Steel Bars + 1 Wood_ | Novice |
-| **Longsword** | _5 Steel Bars + 1 Wood_ | Adept |
-| **Falchion Sword** | _2 Steel Bars + 1 Wood_ | Apprentice |
 | **Dagger** | _1 Steel Bar + 1 Wood_ | Novice |
 | **Mace** | _1 Iron Bar + 1 Wood_ | Novice |
 | **Spear** | _1 Iron Bar + 2 Wood_ | Novice |
+| **Falchion Sword** | _2 Steel Bars + 1 Wood_ | Apprentice |
 | **Pike** | _1 Iron Bar + 3 Wood_ | Apprentice |
-| **Halberd** | _3 Steel Bars + 3 Wood_ | Master |
+| **Longsword** | _5 Steel Bars + 1 Wood_ | Adept |
 | **Lance** | _2 Steel Bars + 3 Wood_ | Adept |
+| **Halberd** | _3 Steel Bars + 3 Wood_ | Master |
 | **War Hammer** | _3 Steel Bars + 2 Wood_ | Master |
 | **Dane Axe** | _2 Steel Bars + 2 Wood_ | Grandmaster |
 
