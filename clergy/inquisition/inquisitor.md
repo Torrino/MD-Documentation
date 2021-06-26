@@ -53,7 +53,7 @@ _Used to force someone into confessing their heresy. If successful, it will give
 * _**1-12** Success:_ `Base Reward`
 
 {% hint style="warning" %}
-_The Confessor role is overt and means that someone was converted to Catholicism, although they may still retain their previous beliefs. If a Confessor is caught again by the Inquisition, they will be executed._
+_The Confessor role is overt and means that someone was converted to Catholicism, although they may still retain their previous beliefs. If a Confessor is arrested again by the Inquisition, they will be executed._
 {% endhint %}
 
 ## In-depth guide:
