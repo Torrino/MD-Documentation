@@ -12,22 +12,23 @@ Thugs are the grunts of any gang within Rosewood. They make sure the day-to-day 
 
 ## Mechanics:
 
+{% code title="\#workshops or any residential channel" %}
 ```javascript
 r!racketeer
 ```
+{% endcode %}
 
 `r!rackateer` - _Used to threaten NPC shop owners within the City into paying a monthly "insurance"._
 
 #### Additional requirements:
 
-* **Channel:** \#workshops or any residential channel
 * **Necessary tool:** Any weapon
-  * **Location:** Primary slot
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!racketeer`
+* * **Location:** Primary slot
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!racketeer`_
 
 ## Relationship with the Market and other Users:
 
