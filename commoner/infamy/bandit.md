@@ -12,22 +12,23 @@ Bandits stalk the roads of the Kingdom and prey upon the weak and unprotected. T
 
 ## Mechanics:
 
+{% code title="\#forest & \#walls" %}
 ```javascript
 r!rob
 ```
+{% endcode %}
 
 `r!rob` - _Used to steal from NPCs, be that items or buckles._
 
 #### Additional requirements:
 
-* **Channel:** \#forest or \#walls
 * **Necessary tool:** Any weapon
   * **Location:** Primary slot
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!rob`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!rob`_
 
 ## Relationship with the Market and other Users:
 
