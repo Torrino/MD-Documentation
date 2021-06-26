@@ -8,7 +8,7 @@ description: >-
 
 ## Description:
 
-A Miner is someone who supplies Rosewood with valuable materials like stone, iron, silver, and gold. Their work is tiresome, but provides the occasional reward since the Rosewood mines also have precious crystals within them.
+A Miner is someone who supplies Rosewood with valuable materials like stone, iron, silver, and gold. Their work is tiresome but provides the occasional reward since the Rosewood mines also have precious crystals within them.
 
 ## Mechanics:
 
@@ -22,23 +22,24 @@ The `r!mine` command is used by the Miner in order to obtain stone and ore from 
 
 #### Possible Outcomes:
 
-* **Stone** \[1-5\] _\(90%\)_
-* **Iron Ore** \[1-3\] _\(50%\)_
-* **Silver Ore** \[1-3\] _\(10%\)_
-* **Gold Ore** \[1-3\]  _\(5%\)_
-* **Crystals** \[1\] _\(1%\)_
+| Ore | Amount | Drop Rate |
+| :--- | :--- | :--- |
+| Stone | Between 1 and 5 | 90% |
+| Iron Ore | Between 1 and 3 | 50% |
+| Silver Ore | Between 1 and 3 | 10% |
+| Gold Ore | Between 1 and 3 | 5% |
+| Crystals | Always 1 | 1% |
 
 #### Additional requirements:
 
-* **Channel:** \#mines
 * **Necessary tool:** Pickaxe
   * **Location:** Primary slot
-  * **Durability cost**: 5
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 15 ****
-* **XP Reward:** 3
-  * **XP Reward Cooldown:** 24h
-  * **XP Reward While on Cooldown:** 30% chance at 1XP per `r!mine`
+  * **Durability cost**: `5`
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `15`
+* **XP Reward:** `3`
+  * **XP Reward Cooldown:** `24h`
+  * **XP Reward While on Cooldown:** _30% chance at 1XP per `r!mine`_
 
 ## Relationship with the Market and other Users:
 
