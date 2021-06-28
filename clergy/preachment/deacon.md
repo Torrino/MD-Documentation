@@ -50,7 +50,7 @@ r!preach <sermon>
 {% endcode %}
 
 _Used to earn Piety  
-`<sermon>` - The words that you character preaches. The length of the sermon bonus/penalty on your preach success chance._
+`<sermon>` - The words that you character preaches. The length of the sermon gives you a bonus/penalty on your preach success chance._
 
 * **Minimum Stamina:** 50%
   * **Raw Stamina Cost:** 10
