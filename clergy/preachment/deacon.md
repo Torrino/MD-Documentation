@@ -84,6 +84,10 @@ _Used to earn Piety
 * _**10-12** Success:_ `Base Reward`
 * _**13-17** Total Success:_ `Base Reward + 5-10 piety`
 
+{% hint style="danger" %}
+Your sermon **can't** contain any **roleplay**, meaning, when typing the preach command, include only text your character says and no RP actions.
+{% endhint %}
+
 ## In-depth guide:
 
 Deacons are the lowest rank within the Preachment route. They inherit every Scribe command and earn a couple of new ones as well. They are basically unordained priests with a few responsibilities including administering the sacraments of Baptism and the Eucharist, while also delivering sermons, excluding Mass, and they oversee burials and funerals.
