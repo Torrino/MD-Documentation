@@ -69,7 +69,7 @@ _Used to earn Piety
 * **Sermon character count:**
   * _&lt;500:_ `-1`
   * _500-999:_ `0`
-  * _&gt;1000:_ `+1`
+  * _&gt;999:_ `+1`
 * **Age:**
   * _Teenage\(16-19\):_ `-4`
   * _Young\(20-30\):_ `-1`
