@@ -28,7 +28,7 @@ _Used to arrest characters who are `Bound`, instantly taking them to the \#dunge
 
 * **Minimum Stamina:** `50%`
   * **Raw Stamina Cost:** `10`
-* **Command cooldown**: `2h`
+* **Command cooldown**: `30min`
 
 {% hint style="warning" %}
 _As stated above, only characters with the `Bound` role can be arrested! To find out more abound Binding others, check_ [_THIS_](../../combat/end-of-combat/) _out!_
@@ -42,11 +42,11 @@ r!search <@user>
 ```
 {% endcode %}
 
-_Used to arrest characters who are `Bound`, instantly taking them to the \#dungeons._
+_Used to search the targeted character's inventory. If the roll is successful, every contraband item will be revealed and destroyed._
 
-* **Minimum Stamina:** `50%`
+* **Minimum Stamina:** `40%`
   * **Raw Stamina Cost:** `10`
-* **Command cooldown**: `2h`
+* **Command cooldown**: `1h`
 
 ## In-depth guide:
 
