@@ -100,7 +100,7 @@ _Used to absolve a character of sin.
 `<@user>` - Mentioned discord user whose sins are being forgiven._
 
 * **Reward:** `10 piety`
-  * _**Reward cooldown:**_ ****`1 piety | 24hr cooldown`
+  * _**Reward cooldown:**_ ****`24hr cooldown (0-1 piety when on CD)`
 
 _The **absolve** command is purely for RP purposes, and it does not guarantee forgiveness in the eyes of the Law. It is to be done at the end of a session of Catholic **confession**._
 
