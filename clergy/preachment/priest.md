@@ -97,12 +97,16 @@ r!absolve <@user>
 {% endcode %}
 
 _Used to absolve a character of sin.  
-`<@user>` - Mentioned discord user whose sins are being forgiven._
+`<@user>` - Mentioned discord user whose sins are being forgiven_
 
 * **Reward:** `10 piety`
   * _**Reward cooldown:**_ ****`24hr cooldown (0-1 piety when on CD)`
 
 _The **absolve** command is purely for RP purposes, and it does not guarantee forgiveness in the eyes of the Law. It is to be done at the end of a session of Catholic **confession**._
+
+{% hint style="warning" %}
+_The **mentioned user** has_ _to be of **Catholic** faith for their sins to be absolved._
+{% endhint %}
 
 ## In-depth guide
 
