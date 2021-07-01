@@ -21,6 +21,24 @@ Inquisitors can use the r!arrest command.
 
 ## Mechanics:
 
+### Arrest
+
+{% code title="\#any" %}
+```javascript
+r!arrest <@user>
+```
+{% endcode %}
+
+_Used to arrest characters who are `Bound`, instantly taking them to the \#dungeons._
+
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
+* **Command cooldown**: `2h`
+
+{% hint style="warning" %}
+_As stated above, only characters with the `Bound` role can be arrested! To find out more abound Binding others, check_ [_THIS_](../../combat/end-of-combat/) _out!_
+{% endhint %}
+
 ### Extract Confession
 
 {% code title="\#dungeons" %}
