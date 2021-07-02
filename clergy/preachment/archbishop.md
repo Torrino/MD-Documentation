@@ -30,7 +30,7 @@ r!excommunicate <@user>
 ```
 {% endcode %}
 
-`r!excommunicate` - _Used to remove someone from communion, meaning they are effectively strangers to the Catholic Church, and cannot participate in Catholic society. Also grants a negative Charisma modifier._
+`r!excommunicate` - _Used to remove a Catholic from communion, meaning they are effectively strangers to the Catholic Church, and cannot participate in Catholic society. Also grants a negative Charisma modifier._
 
 * **Piety cost:** `200`
 * **Cooldown:** `1h`
