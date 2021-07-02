@@ -18,7 +18,7 @@ r!play
 ```
 {% endcode %}
 
-_Your characters plays a song and receives some buckles for it. You can use this command with other players when roleplaying and they can give you extra coin for playing songs._
+_Your character plays a song and receives some buckles for it. You can use this command with other players when roleplaying and they can give you extra coin for playing songs._
 
 In order to play in the **\#bar** text channel, you have to be hired as a **Bard** by the Innkeeper.   
 The innkeeper can use the `hire` command on you and you'll be officially hired as the **Tavern's Bard**.   
