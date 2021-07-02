@@ -28,7 +28,7 @@ The `r!mine` command is used by the Miner in order to obtain stone and ore from 
 | Iron Ore | Between 1 and 3 | 50% |
 | Silver Ore | Between 1 and 3 | 10% |
 | Gold Ore | Between 1 and 3 | 5% |
-| Crystals | 1 | 1% |
+| Crystals | Always 1 | 1% |
 
 #### Additional requirements:
 

@@ -45,19 +45,19 @@ _If a clergy member is excommunicated, they lose their clergy role. Additionally
 
 {% code title="\#cathedral" %}
 ```javascript
-r!bless <@user>
+r!bless <@user> <amount>
 ```
 {% endcode %}
 
-`r!bless` - _Used to transfer an Archbishop's personal piety onto another clergy member._
+_Used to transfer an Archbishop's personal piety onto another clergy member.  
+`<@user>` - The mentioned discord user to whom you're transferring some of your piety.  
+`<amount>` - The amount of piety you want to spend._
 
-#### Additional requirements:
-
-* **Piety cost:** `Any`
-  * **Transfer rate:** `1/3 of piety spent`
+* **Piety cost:** `<amount>`
+* **Transfer rate:** `1/3 of piety spent`
 * **Cooldown:** `1h`
 
-{% hint style="info" %}
+{% hint style="success" %}
 _Giving certain clergy members your excess piety may inspire loyalty!_
 {% endhint %}
 
