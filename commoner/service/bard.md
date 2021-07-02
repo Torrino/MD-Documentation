@@ -6,9 +6,7 @@ description: A page detailing the Bard role within Medieval Discord and their pl
 
 ## Description:
 
-
-
-Inn Hands are employees of the Innkeeper who is charged with running Nan Nicole's. They are lowborn men and women who are handpicked by the Innkeeper. They can be hired and fired whenever and for any reason. Their job consists of making small talk with patrons, serving them various drinks and foods, including homebrewed beers and stews. In addition to this, they also must maintain the Tavern's reputation as well as its hygiene.
+Bards are the musically gifted citizens of Rosewood who have been hired by the Innkeeper to perform on behalf of Nan Nicole's Tavern. They go around the City and play their songs in key areas to attract listeners, gaining money for themselves, and increasing the Tavern's reputation.
 
 ## Mechanics:
 
