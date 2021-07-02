@@ -12,10 +12,6 @@ Inquisitors are the soldiers of the French Inquisition. The institution is suppo
 
 When you reach the Inquisitor rank, your character will gain the Brother/Sister title.
 
-{% hint style="success" %}
-Inquisitors can use the r!arrest command.
-{% endhint %}
-
 * **Weekly Paycheck:** `20 coin`
 * **Rank-up Rewards:** `Inquisitor Robes, Club`
 
