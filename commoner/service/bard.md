@@ -36,7 +36,5 @@ _Playing in the **\#bar** text channel grants you **more buckles.**_
 
 ## In-depth guide
 
-Inn Hands should spend most of their time serving patrons in the Tavern. They work at the bar and normally fetch drinks for the people there. These drinks can be ordinary ones from the Market, however, most patrons will appreciate being served exclusive food/drinks that are only available through the `r!brew` mechanic. These beverages are brewed within the Capital, sold exclusively within Taverns, or shipped elsewhere. For most Inn Hands, a good rule of thumb is to keep your head low, listen to the Innkeeper, and keep out of any criminal activity.
-
-
+If you are a bard without an instrument, your priority should be to get something to play music with. Once you're ready to play, the best way to reach popularity is to simply use the command as much as possible. By playing to more people, you might eventually get noticed by nobility and get invited to a feast where you will earn a lot of buckles for playing. Otherwise, playing in the Tavern is always a good option.
 
