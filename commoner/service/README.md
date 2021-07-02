@@ -6,7 +6,7 @@ The Service Route of the Commoner Path is based in the Tavern, and their main go
 _Innkeepers are manually chosen by the Creators from a pool of active Certified Members._
 {% endhint %}
 
-* Innkeeper
-* Inn Hand
-* Bard
+* [Innkeeper](inn-keeper.md)
+* [Inn Hand](inn-hand.md)
+* [Bard](bard.md)
 
