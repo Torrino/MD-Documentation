@@ -26,9 +26,11 @@ The innkeeper can use the `hire` command on you and you'll be officially hired a
 **You don't level up** as a **Bard** but for **every 10xp**, your income for each playing **increases by 1 buckle**.  
 This upgrade is **permanent**.
 
-* **Channels:** \#shops, \#main\_square_,_ \#great\_hall, \#bar
+* **Income:**
+  * **\#great\_hall** \| **\#bar**: `7-11 buckles`
+  * **\#shops \| \#main\_sqare:** `1-5 buckles` ****
 * **Minimum Stamina:** `10%`
-  * **Stamina cost:** `5`
+  * **Stamina cost:** `10`
 
 {% hint style="success" %}
 _Playing in the **\#bar** text channel grants you **more buckles.**_ 
