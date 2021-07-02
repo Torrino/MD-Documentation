@@ -31,6 +31,9 @@ This upgrade is **permanent**.
   * **\#shops \| \#main\_sqare:** `1-5 buckles` ****
 * **Minimum Stamina:** `10%`
   * **Stamina cost:** `10`
+* **XP Reward:** `3xp`
+  * **Cooldown:** `24h`
+  * **0-1xp** while on CD
 
 {% hint style="success" %}
 _Playing in the **\#bar** text channel grants you **more buckles.**_ 
