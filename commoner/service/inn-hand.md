@@ -16,7 +16,7 @@ Inn Hands are employees of the Innkeeper who is charged with running Nan Nicole'
 
 {% code title="Tavern Category" %}
 ```javascript
-r!brew <item_name>
+r!brew <item name>
 ```
 {% endcode %}
 
