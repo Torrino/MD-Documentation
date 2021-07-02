@@ -51,7 +51,7 @@
   * [Bandit 🤺](commoner/infamy/bandit.md)
   * [Thug 👊](commoner/infamy/thug.md)
 * [Service Route](commoner/service/README.md)
-  * [Inn Keeper 🗝️](commoner/service/inn-keeper.md)
+  * [Innkeeper 🗝️](commoner/service/inn-keeper.md)
   * [Inn Hand 🍻](commoner/service/inn-hand.md)
   * [Bard 🎶](commoner/service/bard.md)
 
