@@ -77,7 +77,7 @@
   * [Recruit](military/watch/recruit.md)
   * [Picket](military/watch/picket.md)
   * [Guard 🏹](military/watch/guard.md)
-  * [Sargeant 🗡️](military/watch/sargeant.md)
+  * [Sergeant 🗡️](military/watch/sargeant.md)
   * [Officer 🐕](military/watch/officer.md)
   * [Lieutenant 🐺](military/watch/lieutenant.md)
   * [Captain 🐻](military/watch/captain.md)
