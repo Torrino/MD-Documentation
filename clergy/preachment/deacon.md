@@ -52,12 +52,12 @@ r!preach <sermon>
 _Used to earn Piety  
 `<sermon>` - The words that you character preaches. The length of the sermon gives you a bonus/penalty on your preach success chance._
 
-* **Minimum Stamina:** 50%
-  * **Raw Stamina Cost:** 10
+* **Minimum Stamina:** `50%`
+  * **Raw Stamina Cost:** `10`
 * **Base Reward:** `40-60 piety`
 
-  * **Reward Cooldown:** 24h
-  * **Command Cooldown:** 1h
+  * **Reward Cooldown:** `24h`
+  * **Command Cooldown:** `1h`
 
   \*\*\*\*
 

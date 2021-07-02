@@ -12,35 +12,30 @@ Inn Hands are employees of the Innkeeper who is charged with running Nan Nicole'
 
 ## Mechanics:
 
-### Hire
+### Brew
 
 {% code title="Tavern Category" %}
 ```javascript
-r!hire <@user> <role>
+r!brew <item_name>
 ```
 {% endcode %}
 
-_`<@user>` - The mentioned discord user you want to hire.  
-`<role>` - The role they will have once hired. **Accepted options:** `inn hand` , `bard`_
+_`<item_name>` - The food/drink you'd like to create._
 
-_The only way someone can become a Bard or an Inn Hand is by being hired by the Innkeeper._
+#### Brewable Items:
 
-{% hint style="warning" %}
-There can only be a maximum of **5 Inn Hands** and **5 Bards** at a time.
-{% endhint %}
+* **`Stew`**
+* **`Rosewood Beer`**
+* **`Rosewood Mead`**
+* **`Rosewood Wine`**
 
-### Fire
+#### Additional requirements:
 
-{% code title="Tavern Category" %}
-```javascript
-r!fire <@user>
-```
-{% endcode %}
-
-_`<@user>` - The mentioned discord user you want to fire.  
-Used for firing a user you hired previously from their role._
+* **Minimum Stamina:** 50%
+  * **Raw Stamina Cost:** `15`
+* **Command Cooldown:** `10min`
 
 ## In-depth guide:
 
-Being chosen as an Innkeeper means the Creators expect you to be active and administrate a host of inn hands and bards to serve under you, making sure the Tavern category remains as active as possible. Not hiring any hands or bards will lead to your character losing the Innkeeper role. Therefore, despite having a weekly paycheck, your will still need to RP in the Tavern, and keep track of your Inn Hands, since whatever they do IC reflects negatively on you. Meaning if a problem arises within the Tavern, or involving your employees, it can lead to you getting arrested or fired. It's best to hire people you can trust, or at least avoid those who you know you shouldn't trust.
+Inn Hands should spend most of their time serving patrons in the Tavern. They work at the bar and normally fetch drinks for the people there. These drinks can be ordinary ones from the Market, however, most patrons will appreciate being served exclusive food/drinks that are only available through the `r!brew` mechanic. These beverages are brewed within the Capital, sold exclusively within Taverns, or shipped elsewhere. For most Inn Hands, a good rule of thumb is to keep your head low, listen to the Innkeeper, and keep out of any criminal activity.
 
