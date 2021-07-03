@@ -46,7 +46,7 @@ _Used to force someone into confessing their heresy. If successful, it will give
 
 * **Minimum Stamina:** `50%`
   * **Raw Stamina Cost:** `10`
-* **Base Reward:** `40-80 piety`
+* **Base Reward:** `40-60 piety`
   * **Reward Cooldown:** 24h
 
 When a user is targeted with the `extract-confession` command, they bot offers them the option to willingly confess before any calculations are made \(including potential damage the victim may take\).
