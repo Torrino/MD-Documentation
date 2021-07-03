@@ -55,8 +55,8 @@ _Used to force someone into confessing their heresy. If successful, it will give
 **Success chance:**
 
 * \(+\)**Strength:** `str`
+* \(+\)**Weapon:** `4`
 * \(-\)**Target's Strength:** `str`
-* \(+\)**Stamina:** `stm`
 * \(-\)**Target's Stamina:** `stm`
 * \(+\)**Random dice:** `0-2`
 
